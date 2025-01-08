@@ -60,69 +60,20 @@ git commit -m "25/01/08 문제 풀이" -m "https://www.acmicpc.net/problem/1330"
    - 다만, 이번주에 풀었던 문제의 알고리즘 분류가 어떻게 되는지, 어떤 문제가 어려웠는지 회고를 작성하면 좋을 것 같습니다.
 </br>
 
-위 규칙은 다음 레포지토리를 참고해서 제작하였습니다. [알고리즘 및 코딩 테스트 문제 풀이 챌린지 100](https://github.com/ellynhan/challenge100-codingtest-study)
-
-
-
 --------
-</br>
 
 # 🧑‍💻 챌린지 참가자
-<table>
-  <tbody>
-    <tr>
-      <td align="center">
-        <a href="https://github.com/hjey">
-          <img src="https://github.com/user-attachments/assets/8b27768a-1353-4628-8827-58b3461838b4" width="100px;" alt=""/>
-          <br /><sub><b>github id</b></sub>
-        </a>
-        <br />
-      </td>
-      <td align="center">
-        <a href="https://github.com/PARKYUNSU">
-          <img src="https://github.com/user-attachments/assets/d558530c-1de6-496a-a3ea-54dfc63350f8" width="100px;" alt=""/>
-          <br /><sub><b>github id</b></sub>
-        </a>
-        <br />
-      </td>
-      <td align="center">
-        <a href="https://github.com/MyoungJinSon">
-          <img src="https://github.com/user-attachments/assets/251f2f91-c27c-41da-ab9b-689854d7313a" width="100px;" alt=""/>
-          <br /><sub><b>github id</b></sub>
-        </a>
-        <br />
-      </td>
-      <td align="center">
-        <a href="https://github.com/cjy8922">
-          <img src="https://github.com/user-attachments/assets/9b5f566b-33bc-4d28-9c6d-411db8f11ffc" width="100px;" alt=""/>
-          <br /><sub><b>github id</b></sub>
-        </a>
-        <br />
-      </td>
-             <td align="center">
-        <a href="https://github.com/cjy8922">
-          <img src="https://github.com/user-attachments/assets/9b5f566b-33bc-4d28-9c6d-411db8f11ffc" width="100px;" alt=""/>
-          <br /><sub><b>github id</b></sub>
-        </a>
-        <br />
-      </td>
-             <td align="center">
-        <a href="https://github.com/cjy8922">
-          <img src="https://github.com/user-attachments/assets/9b5f566b-33bc-4d28-9c6d-411db8f11ffc" width="100px;" alt=""/>
-          <br /><sub><b>github id</b></sub>
-        </a>
-        <br />
-      </td>
-      <td align="center">
-        <a href="https://github.com/cjy8922">
-          <img src="https://github.com/user-attachments/assets/9b5f566b-33bc-4d28-9c6d-411db8f11ffc" width="100px;" alt=""/>
-          <br /><sub><b>github id</b></sub>
-        </a>
-        <br />
-      </td>
-    </tr>
-  </tbody>
+<table><tr>         
+   <td align="center"><a href="https://github.com/sinya3558"><img src="https://avatars.githubusercontent.com/u/70243358?v=4?s=100" width="100px;" alt=""/>         <br /><sub><b>sinya3558</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/0"/></sub></a><br /></td>
+   <td align="center"><a href="https://github.com/hoooddy"><img src="https://avatars.githubusercontent.com/u/35017649?v=4?s=100" width="100px;" alt=""/>         <br /><sub><b>hoooddy</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/0"/></sub></a><br /></td>
+   <td align="center"><a href="https://github.com/hjey"><img src="https://avatars.githubusercontent.com/u/94843707?v=4?s=100" width="100px;" alt=""/>         <br /><sub><b>hjey</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/0"/></sub></a><br /></td>
+   <td align="center"><a href="https://github.com/PARKYUNSU"><img src="https://avatars.githubusercontent.com/u/125172299?v=4?s=100" width="100px;" alt=""/>         <br /><sub><b>PARKYUNSU</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/0"/></sub></a><br /></td>
+   <td align="center"><a href="https://github.com/MyoungJinSon"><img src="https://avatars.githubusercontent.com/u/46157544?v=4?s=100" width="100px;" alt=""/>         <br /><sub><b>MyoungJinSon</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/0"/></sub></a><br /></td>
+   <td align="center"><a href="https://github.com/cjy8922"><img src="https://avatars.githubusercontent.com/u/34412522?v=4?s=400" width="100px;" alt=""/>         <br /><sub><b>cjy8922</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/0"/></sub></a><br /></td>
+   <td align="center"><a href="https://github.com/po2955"><img src="https://avatars.githubusercontent.com/u/84663334?v=4?s=100" width="100px;" alt=""/>         <br /><sub><b>po2955</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/0"/></sub></a><br /></td>
+</tr>
 </table>
+</br>
 
 
 ### 참석 여부
@@ -130,11 +81,16 @@ git commit -m "25/01/08 문제 풀이" -m "https://www.acmicpc.net/problem/1330"
 - ☑️ : 개인 사정으로 인한 면제
 - ❌ : 불참
 
-||github id|github id|github id|github id|github id|github id|github id|
+||sinya3558|hoooddy|hjey|PARKYUNSU|MyoungJinSon|cjy8922|po2955|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |01/12 ~ 01/18|✅|✅|✅|✅|✅|✅|✅|
 |01/12 ~ 01/18||||||||
 |01/19 ~ 01/25||||||||
 |01/26 ~ 02/01||||||||
+</br>
+
+-------
+
+위 규칙은 다음 레포지토리를 참고해서 제작하였습니다. </br>[알고리즘 및 코딩 테스트 문제 풀이 챌린지 100](https://github.com/ellynhan/challenge100-codingtest-study)
 
 
