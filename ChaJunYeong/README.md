@@ -18,7 +18,7 @@
   |**_1330_**|[두 수 비교하기](https://www.acmicpc.net/problem/1330)|브론즈 5|1330_두수비교하기.py|30 sec|`조건문`, `구현`|
   |**_4673_**|[셀프넘버](https://www.acmicpc.net/problem/4673)|실버 5|4673_셀프넘버.py|5 min|`구현`|
   |**_18258_**|[큐2](https://www.acmicpc.net/problem/18258)|실버 4|18258_큐2.py|10 min|`구현`, `자료 구조`|
-
+  |**_10828_**|[스택](https://www.acmicpc.net/problem/10828)|실버 4|10828_스택.py|05:36.22|`구현`, `자료 구조`|
 </details>
 
 ### [PGS] 프로그래머스
