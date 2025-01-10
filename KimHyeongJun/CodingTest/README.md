@@ -19,12 +19,12 @@
   </br>
 
 
-|     번호      | 이름                                                | 난이도  | 코드             | 시간    | 유형             | 상태  |
-|:-----------:|:--------------------------------------------------|:----:|:---------------|:------|:---------------|:---:|
-| **_7576_**  | [토마토](https://www.acmicpc.net/problem/7576)       | 골드 5 | BOJ/BFS/P7576  | 1h 1m | `BFS`          |  ✅  |
-| **_7569_**  | [토마토](https://www.acmicpc.net/problem/7569)       | 골드 5 | BOJ/BFS/P7569  | 36m   | `BFS`          |  ✅  |
-| **_15649_** | [N과 M (1)](https://www.acmicpc.net/problem/15649) | 실버 3 | BOJ/BFS/P15649 | 34m   | `BackTracking` |  ✅  |
-
+|     번호      | 이름                                                | 난이도  | 코드             | 시간     | 유형             | 상태  |
+|:-----------:|:--------------------------------------------------|:----:|:---------------|:-------|:---------------|:---:|
+| **_7576_**  | [토마토](https://www.acmicpc.net/problem/7576)       | 골드 5 | BOJ/BFS/P7576  | 1h 1m  | `BFS`          |  ✅  |
+| **_7569_**  | [토마토](https://www.acmicpc.net/problem/7569)       | 골드 5 | BOJ/BFS/P7569  | 36m    | `BFS`          |  ✅  |
+| **_15649_** | [N과 M (1)](https://www.acmicpc.net/problem/15649) | 실버 3 | BOJ/BFS/P15649 | 34m    | `BackTracking` |  ✅  |
+| **_15650_** | [N과 M (2)](https://www.acmicpc.net/problem/15650) | 실버 3 | BOJ/BFS/P15650 | 1h 10m | `BackTracking` |     |
 
 </details>
 
