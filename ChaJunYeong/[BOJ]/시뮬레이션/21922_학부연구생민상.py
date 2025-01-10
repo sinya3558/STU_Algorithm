@@ -10,7 +10,7 @@ def input():
     2번째 시도 시간초과 → sum 함수 문제?
     3번째 시도 시간초과 → input 함수 선언
     4번째 시도 시간초과 → 또 다른 air condition을 만났을 때 종료
-    ???
+    pypy로 하니 통과;
 """
 
 n, m = map(int, input().split())
