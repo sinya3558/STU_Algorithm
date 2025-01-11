@@ -28,7 +28,8 @@
 | **_15651_** | [N과 M (3)](https://www.acmicpc.net/problem/15651) | 실버 3 | BOJ/P15651 | 7m     | `BackTracking` |  ✅   |
 | **_15652_** | [N과 M (4)](https://www.acmicpc.net/problem/15652) | 실버 3 | BOJ/P15652 | 12m    | `BackTracking` |  ✅   |
 | **_15654_** | [N과 M (5)](https://www.acmicpc.net/problem/15654) | 실버 3 | BOJ/P15654 | 12m    | `BackTracking` |    ✅  |
-| **_15655_** | [N과 M (6)](https://www.acmicpc.net/problem/15655)    | 실버 3 | BOJ/P15655    | 9m     | `BackTracking` |    ✅ |
+| **_15655_** | [N과 M (6)](https://www.acmicpc.net/problem/15655) | 실버 3 | BOJ/P15655 | 9m     | `BackTracking` |    ✅ |
+| **_9663_**  | [N-Queen](https://www.acmicpc.net/problem/9663)   | 골드 4 | BOJ/P9663  | 9m     | `BackTracking` |    ✅ |
 
 </details>
 
