@@ -21,10 +21,10 @@
 
 |     번호      | 이름                                                | 난이도  | 코드             | 시간     | 유형             | 상태  |
 |:-----------:|:--------------------------------------------------|:----:|:---------------|:-------|:---------------|:---:|
-| **_7576_**  | [토마토](https://www.acmicpc.net/problem/7576)       | 골드 5 | BOJ/BFS/P7576  | 1h 1m  | `BFS`          |  ✅  |
-| **_7569_**  | [토마토](https://www.acmicpc.net/problem/7569)       | 골드 5 | BOJ/BFS/P7569  | 36m    | `BFS`          |  ✅  |
-| **_15649_** | [N과 M (1)](https://www.acmicpc.net/problem/15649) | 실버 3 | BOJ/BFS/P15649 | 34m    | `BackTracking` |  ✅  |
-| **_15650_** | [N과 M (2)](https://www.acmicpc.net/problem/15650) | 실버 3 | BOJ/BFS/P15650 | 1h 10m | `BackTracking` |     |
+| **_7576_**  | [토마토](https://www.acmicpc.net/problem/7576)       | 골드 5 | BOJ/P7576      | 1h 1m  | `BFS`          |  ✅  |
+| **_7569_**  | [토마토](https://www.acmicpc.net/problem/7569)       | 골드 5 | BOJ/P7569  | 36m    | `BFS`          |  ✅  |
+| **_15649_** | [N과 M (1)](https://www.acmicpc.net/problem/15649) | 실버 3 | BOJ/P15649 | 34m    | `BackTracking` |  ✅  |
+| **_15650_** | [N과 M (2)](https://www.acmicpc.net/problem/15650) | 실버 3 | BOJ/P15650 | 1h 10m | `BackTracking` |    ✅ |
 
 </details>
 
@@ -56,8 +56,9 @@
 	<summary>문제 풀이 모음집</summary>
   </br>
 
-|번호|이름|난이도|코드|시간|유형|
-|::|:-----|:-----:|:-----|:-----|:-----|
+|   번호    | 이름                                                                                                                        |  난이도   | 코드             | 시간  |유형|
+|:-------:|:--------------------------------------------------------------------------------------------------------------------------|:------:|:---------------|:----|:-----|
+| **_17_** | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/) | Medium | LTC/P15650 | 57m | `BackTracking` |    ✅ |
 
 </details>
 
