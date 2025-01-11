@@ -79,6 +79,7 @@ git commit -m "25/01/08 문제 풀이" -m "https://www.acmicpc.net/problem/1330"
 ### 공통 문제 (02/03 부터 시행, 그 전에는 자유롭게 문제 풀이)
 - 스터디원 모두가 푸는 것 (고민해 보는 것)을 목적으로 하는 공통 문제
 - 2주 단위로 각자 1문제 씩 문제 선정 → 다음 미팅이 있기 전까지 풀이
+- 문제 풀이자는 Commit 혹은 PR Comment에 어떤 공통 문제 풀이했는지 적어놓을 것
 - 문제 제안자는 반드시 해당 문제를 한 번 이상 풀어 볼 것
 
 <details>
@@ -88,8 +89,8 @@ git commit -m "25/01/08 문제 풀이" -m "https://www.acmicpc.net/problem/1330"
       
    |제안자|문제 링크|sinya3558|hoooddy|hjey|PARKYUNSU|MyoungJinSon|cjy8922|po2955|
    |:-----:|:-----|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-   |hoooddy|[N-Queen](https://www.acmicpc.net/problem/9663)|✅|-|✅|✅|✅|✅|✅|
-   |cjy8922|[학부 연구생 민상](https://www.acmicpc.net/problem/21922)|✅|✅|✅|✅|✅|-|✅|
+   |hoooddy|[N-Queen](https://www.acmicpc.net/problem/9663)||-||||||
+   |cjy8922|[학부 연구생 민상](https://www.acmicpc.net/problem/21922)||||||-||
    
    </details>
    
