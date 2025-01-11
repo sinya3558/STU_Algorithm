@@ -26,6 +26,7 @@
 | **_15649_** | [N과 M (1)](https://www.acmicpc.net/problem/15649) | 실버 3 | BOJ/P15649 | 34m    | `BackTracking` |  ✅  |
 | **_15650_** | [N과 M (2)](https://www.acmicpc.net/problem/15650) | 실버 3 | BOJ/P15650 | 1h 10m | `BackTracking` |    ✅ |
 | **_15651_** | [N과 M (3)](https://www.acmicpc.net/problem/15651) | 실버 3 | BOJ/P15651 | 7m     | `BackTracking` |    ✅ |
+| **_15652_** | [N과 M (4)](https://www.acmicpc.net/problem/15652) | 실버 3 | BOJ/P15651 | 12m    | `BackTracking` |    ✅ |
 
 </details>
 

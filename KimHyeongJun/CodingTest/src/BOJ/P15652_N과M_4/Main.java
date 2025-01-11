@@ -1,4 +1,4 @@
-package BOJ.P15651_N과_M_3;
+package BOJ.P15652_N과M_4;
 
 import java.util.*;
 import java.io.*;
@@ -18,7 +18,8 @@ public class Main {
         M = Integer.parseInt(st.nextToken());
 
         List<Integer> result = new ArrayList<>();
-        BackTracking(result, 0);
+
+        BackTracking(result, 1, 0);
 
         br.close();
         bw.write(sb.toString());
@@ -26,18 +27,18 @@ public class Main {
         bw.close();
     }
 
-    static void BackTracking(List<Integer> result, int depth) {
+    static void BackTracking(List<Integer> result, int start, int depth) {
         if(depth == M) {
-            for(int num : result) {
+            for(Integer num : result) {
                 sb.append(num + " ");
             }
             sb.append("\n");
-            return;
+            return ;
         }
 
-        for(int n = 1; n <= N; n++) {
+        for(int n = start; n <= N; n++) {
             result.add(n);
-            BackTracking(result, depth + 1);
+            BackTracking(result, n, depth + 1);
             result.remove(result.size() - 1);
         }
     }
