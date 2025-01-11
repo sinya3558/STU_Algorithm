@@ -1,7 +1,7 @@
 # 💪 알고리즘 문제풀이 챌린지
 
 - 이번주차 공통 문제 확인하러 가기
-- 챌린지 참여 현황 확인하러 가기
+- [챌린지 참여 현황 확인하러 가기](https://github.com/cjy8922/STU_Algorithm?tab=readme-ov-file#%EC%B0%B8%EC%84%9D-%EC%97%AC%EB%B6%80)
 
 25년 1월 13일 (월)부터 시작되는 알고리즘 및 코딩테스트 문제 풀이 챌린지입니다. 25년 상반기 개발자 / AI 엔지니어 취업 및 동기 부여 목적으로 운영되고 있습니다. 
 1차 챌린지는 올해 상반기(6월 30일)까지 기한을 두고 있으며, 그와 별개로 챌린지에 참여한 인원 중 과반수가 인턴 및 정직원 채용에 성공한 경우 남은 기한 상관 없이 종료할 예정입니다.
@@ -107,15 +107,11 @@ git commit -m "25/01/08 문제 풀이" -m "https://www.acmicpc.net/problem/1330"
 <details>
    <summary>공통 문제 리스트</summary>
 
-   <details>
-      <summary>1/12 ~ 2/3 공통 문제</summary>
-      
+   ### 1/12 ~ 2/3 공통 문제
    |제안자|문제 링크|sinya3558|hoooddy|hjey|PARKYUNSU|MyoungJinSon|cjy8922|po2955|
    |:-----:|:-----|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
    |hoooddy|[N-Queen](https://www.acmicpc.net/problem/9663)||-||||||
    |cjy8922|[학부 연구생 민상](https://www.acmicpc.net/problem/21922)||||||-||
-   </details>
-   
    
 </details>
 
