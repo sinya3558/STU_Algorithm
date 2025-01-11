@@ -19,14 +19,15 @@
   </br>
 
 
-|     번호      | 이름                                                | 난이도  | 코드         | 시간     | 유형             | 상태  |
-|:-----------:|:--------------------------------------------------|:----:|:-----------|:-------|:---------------|:---:|
-| **_7576_**  | [토마토](https://www.acmicpc.net/problem/7576)       | 골드 5 | BOJ/P7576  | 1h 1m  | `BFS`          |  ✅  |
-| **_7569_**  | [토마토](https://www.acmicpc.net/problem/7569)       | 골드 5 | BOJ/P7569  | 36m    | `BFS`          |  ✅  |
-| **_15649_** | [N과 M (1)](https://www.acmicpc.net/problem/15649) | 실버 3 | BOJ/P15649 | 34m    | `BackTracking` |  ✅  |
-| **_15650_** | [N과 M (2)](https://www.acmicpc.net/problem/15650) | 실버 3 | BOJ/P15650 | 1h 10m | `BackTracking` |    ✅ |
-| **_15651_** | [N과 M (3)](https://www.acmicpc.net/problem/15651) | 실버 3 | BOJ/P15651 | 7m     | `BackTracking` |    ✅ |
-| **_15652_** | [N과 M (4)](https://www.acmicpc.net/problem/15652) | 실버 3 | BOJ/P15651 | 12m    | `BackTracking` |    ✅ |
+|     번호      | 이름                                                | 난이도  | 코드         | 시간     | 유형             |  상태  |
+|:-----------:|:--------------------------------------------------|:----:|:-----------|:-------|:---------------|:----:|
+| **_7576_**  | [토마토](https://www.acmicpc.net/problem/7576)       | 골드 5 | BOJ/P7576  | 1h 1m  | `BFS`          |  ✅   |
+| **_7569_**  | [토마토](https://www.acmicpc.net/problem/7569)       | 골드 5 | BOJ/P7569  | 36m    | `BFS`          |  ✅   |
+| **_15649_** | [N과 M (1)](https://www.acmicpc.net/problem/15649) | 실버 3 | BOJ/P15649 | 34m    | `BackTracking` |  ✅   |
+| **_15650_** | [N과 M (2)](https://www.acmicpc.net/problem/15650) | 실버 3 | BOJ/P15650 | 1h 10m | `BackTracking` |  ✅   |
+| **_15651_** | [N과 M (3)](https://www.acmicpc.net/problem/15651) | 실버 3 | BOJ/P15651 | 7m     | `BackTracking` |  ✅   |
+| **_15652_** | [N과 M (4)](https://www.acmicpc.net/problem/15652) | 실버 3 | BOJ/P15652 | 12m    | `BackTracking` |  ✅   |
+| **_15654_** | [N과 M (5)](https://www.acmicpc.net/problem/15654) | 실버 3 | BOJ/P15654 | 12m    | `BackTracking` |    ✅  |
 
 </details>
 
