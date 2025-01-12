@@ -25,7 +25,7 @@
   |**_18258_**|[큐2](https://www.acmicpc.net/problem/18258)|실버 4|./자료구조/18258_큐2.py|10 min|`자료 구조`|✅|
   |**_10828_**|[스택](https://www.acmicpc.net/problem/10828)|실버 4|./자료구조/10828_스택.py|05:36.22|`자료 구조`|✅|
   |**_21922_**|[학부 연구생 민상](https://www.acmicpc.net/problem/21922)|골드 5|./시뮬레이션/21922_학부연구생민상.py|01:07:49.42|`시뮬레이션`|✅ (pypy3 통과)|
-  |**_9663_**|[N-Queens](https://www.acmicpc.net/problem/9663)|골드 4|./백트래킹/9663_NQueens.py|00:54:16.97|`백트래킹` (pypy3 통과)|✅|
+  |**_9663_**|[N-Queens](https://www.acmicpc.net/problem/9663)|골드 4|./백트래킹/9663_NQueens.py|00:54:16.97|`백트래킹`|✅ (pypy3 통과)|
 
 </details>
 
