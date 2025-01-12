@@ -3,7 +3,6 @@ package BOJ.P2003_수들의_합_2;
 import java.util.*;
 import java.io.*;
 
-
 public class Main {
 
     static int N, M;
@@ -19,42 +18,30 @@ public class Main {
 
         N = Integer.parseInt(st.nextToken());
         M = Integer.parseInt(st.nextToken());
+
         nums = new int[N];
         st = new StringTokenizer(br.readLine());
 
         for(int n = 0; n < N; n++) {
-          nums[n] = Integer.parseInt(st.nextToken());
+            nums[n] = Integer.parseInt(st.nextToken());
         }
 
-        // nums 배열의 i ~ j 번째의 수를 더헀을 떄 M이 되는 경우의 수를 구하라
-        // dp를 사용하자
+        // nums 배열의 i ~ j 번째의 수를 더헀을 때 M이 되는 경우의 수를 구하라
         answer = 0;
 
-        int i = 0, j = 0;
-        while(true) {
-            if(i == j && nums[i] == M) {
-                answer += 1;
-                j++;
-                if(j == N) {
-                    break;
-                }
-                continue;
-            }
+        int i = 0, j = 0, sum = nums[0];
 
-            if(getSum(i, j) == M){
+        while(j != N) {
+            if(sum == M) {
                 answer += 1;
-                j++;
-                if(j == N) {
+                sum -= nums[i++];
+            } else if (sum > M) {
+                sum -= nums[i++];
+            } else  {
+                if(N == ++j) {
                     break;
                 }
-
-            } else if (getSum(i, j) > M) {
-                i++;
-            } else if(getSum(i, j) < M) {
-                j++;
-                if(j == N) {
-                    break;
-                }
+                sum += nums[j];
             }
         }
 
@@ -64,11 +51,4 @@ public class Main {
         bw.close();
     }
 
-    static int getSum(int start, int end) {
-        int sum = 0;
-        for(int k = start; k <= end; k++) {
-            sum += nums[k];
-        }
-        return sum;
-    }
 }
