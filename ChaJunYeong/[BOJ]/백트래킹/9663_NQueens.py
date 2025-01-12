@@ -2,7 +2,6 @@ import sys
 def input():
     return sys.stdin.readline().rstrip()
 
-
 """
     2차원 배열 Deep Copy : 
         next_arr = [a[:] for a in arr]
@@ -68,4 +67,3 @@ def queens(arr, row):
 
 queens(board, 0)
 print(result)
-                    
