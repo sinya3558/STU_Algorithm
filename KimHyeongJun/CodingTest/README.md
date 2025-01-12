@@ -31,6 +31,7 @@
 | **_15655_** | [N과 M (6)](https://www.acmicpc.net/problem/15655)  | 실버 3 | BOJ/P15655 | 9m     | `BackTracking` |    ✅ |
 | **_9663_**  | [N-Queen](https://www.acmicpc.net/problem/9663)    | 골드 4 | BOJ/P9663  | 1h 8m  | `BackTracking` |    ✅ |
 | **_21922_** | [학부 연구생 민상](https://www.acmicpc.net/problem/21922) | 골드 5 | BOJ/P9663  | 1h 48m | `BFS`          |  ✅   |
+| **_2003_**  | [수들의 합 2](https://www.acmicpc.net/problem/2003)    | 실버 4 | BOJ/P2003  | 49m    | `TwoPointer`   |  ✅   |
 
 </details>
 
