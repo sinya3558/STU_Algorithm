@@ -58,7 +58,6 @@ public class Main {
 
         long answer = 0;
         int idxA = 0, idxB = 0;
-
         while(idxA < subA.size() && idxB < subB.size()) {
             long targetA = subA.get(idxA);
             long targetB = T - targetA;
