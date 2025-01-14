@@ -19,20 +19,22 @@
   </br>
 
 
-|     번호      | 이름                                                 | 난이도  | 코드         | 시간     | 유형             |  상태 |
-|:-----------:|:---------------------------------------------------|:----:|:-----------|:-------|:---------------|:---:|
-| **_7576_**  | [토마토](https://www.acmicpc.net/problem/7576)        | 골드 5 | BOJ/P7576  | 1h 1m  | `BFS`          |  ✅  |
-| **_7569_**  | [토마토](https://www.acmicpc.net/problem/7569)        | 골드 5 | BOJ/P7569  | 36m    | `BFS`          |  ✅  |
-| **_15649_** | [N과 M (1)](https://www.acmicpc.net/problem/15649)  | 실버 3 | BOJ/P15649 | 34m    | `BackTracking` |  ✅  |
-| **_15650_** | [N과 M (2)](https://www.acmicpc.net/problem/15650)  | 실버 3 | BOJ/P15650 | 1h 10m | `BackTracking` |  ✅  |
-| **_15651_** | [N과 M (3)](https://www.acmicpc.net/problem/15651)  | 실버 3 | BOJ/P15651 | 7m     | `BackTracking` |  ✅  |
-| **_15652_** | [N과 M (4)](https://www.acmicpc.net/problem/15652)  | 실버 3 | BOJ/P15652 | 12m    | `BackTracking` |  ✅  |
-| **_15654_** | [N과 M (5)](https://www.acmicpc.net/problem/15654)  | 실버 3 | BOJ/P15654 | 12m    | `BackTracking` |    ✅ |
-| **_15655_** | [N과 M (6)](https://www.acmicpc.net/problem/15655)  | 실버 3 | BOJ/P15655 | 9m     | `BackTracking` |    ✅ |
-| **_9663_**  | [N-Queen](https://www.acmicpc.net/problem/9663)    | 골드 4 | BOJ/P9663  | 1h 8m  | `BackTracking` |    ✅ |
-| **_21922_** | [학부 연구생 민상](https://www.acmicpc.net/problem/21922) | 골드 5 | BOJ/P9663  | 1h 48m | `BFS`          |  ✅   |
-| **_2003_**  | [수들의 합 2](https://www.acmicpc.net/problem/2003)    | 실버 4 | BOJ/P2003  | 49m    | `TwoPointer`   |  ✅   |
-
+|     번호      | 이름                                                 | 난이도  | 코드         | 시간     | 유형                  |  상태 |
+|:-----------:|:---------------------------------------------------|:----:|:-----------|:-------|:--------------------|:---:|
+| **_7576_**  | [토마토](https://www.acmicpc.net/problem/7576)        | 골드 5 | BOJ/P7576  | 1h 1m  | `BFS`               |  ✅  |
+| **_7569_**  | [토마토](https://www.acmicpc.net/problem/7569)        | 골드 5 | BOJ/P7569  | 36m    | `BFS`               |  ✅  |
+| **_15649_** | [N과 M (1)](https://www.acmicpc.net/problem/15649)  | 실버 3 | BOJ/P15649 | 34m    | `BackTracking`      |  ✅  |
+| **_15650_** | [N과 M (2)](https://www.acmicpc.net/problem/15650)  | 실버 3 | BOJ/P15650 | 1h 10m | `BackTracking`      |  ✅  |
+| **_15651_** | [N과 M (3)](https://www.acmicpc.net/problem/15651)  | 실버 3 | BOJ/P15651 | 7m     | `BackTracking`      |  ✅  |
+| **_15652_** | [N과 M (4)](https://www.acmicpc.net/problem/15652)  | 실버 3 | BOJ/P15652 | 12m    | `BackTracking`      |  ✅  |
+| **_15654_** | [N과 M (5)](https://www.acmicpc.net/problem/15654)  | 실버 3 | BOJ/P15654 | 12m    | `BackTracking`      |    ✅ |
+| **_15655_** | [N과 M (6)](https://www.acmicpc.net/problem/15655)  | 실버 3 | BOJ/P15655 | 9m     | `BackTracking`      |    ✅ |
+| **_15656_** | [N과 M (7)](https://www.acmicpc.net/problem/15656)  | 실버 3 | BOJ/P15656 |        | `BackTracking`      |     |
+| **_9663_**  | [N-Queen](https://www.acmicpc.net/problem/9663)    | 골드 4 | BOJ/P9663  | 1h 8m  | `BackTracking`      |    ✅ |
+| **_21922_** | [학부 연구생 민상](https://www.acmicpc.net/problem/21922) | 골드 5 | BOJ/P9663  | 1h 48m | `BFS`               |  ✅   |
+| **_2003_**  | [수들의 합 2](https://www.acmicpc.net/problem/2003)    | 실버 4 | BOJ/P2003  | 49m    | `TwoPointer`        |  ✅   |
+| **_1806_**  | [부분합](https://www.acmicpc.net/problem/1806)        | 골드 4 | BOJ/P2003  | 16m    | `TwoPointer`        |  ✅   |
+| **_2143_**  | [두 배열의 합](https://www.acmicpc.net/problem/2143)      |  골드 3  | BOJ/TwoPointer/P2143       | -  | `TwoPointer`, `Hash` |    ☑️    |
 </details>
 
 ### [SEA] 삼성 SW Expert Academy
