@@ -3,7 +3,7 @@ def input():
     return sys.stdin.readline().rstrip()
 
 """
-    알고리즘 분류 힌트보고 해결결
+    알고리즘 분류 힌트보고 해결
 """
 
 k, n = map(int, input().split())
