@@ -1,4 +1,4 @@
-package SWA.P2382.미생물_격리;
+package SWA.P2382_미생물_격리;
 
 import java.util.*;
 import java.io.*;
