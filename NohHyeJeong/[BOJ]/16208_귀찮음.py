@@ -58,13 +58,22 @@ if int(n) == int(len(l)): # length check if equal
     time: over 2hrs
     status: fail(overtime)
     ref: https://ckstjr.tistory.com/91
-    
-    파이썬 짜증난다
-    생략을 무슨 이백개 해놨어 짜증나게
-    
-    sort가 관건인데 짜증난다
-    정답코드 보면 생략 이백개 한거 생각하면 예상은 된다.
-    이름이 귀찮음인데 생략 고리 채워야해서 더 귀찮아졌다 짜증난다
-    
-    담주에 이거랑 비슷한 문제 반드시 다시 푼다
+    right answer:
+        n = int(input())
+        A = list(map(int, input().split()))
+        A.sort()
+
+        stick_len = sum(A)
+        result = 0
+        
+        for a in A:
+            stick_len -= a
+            result += a * stick_len
+
+        print(result)
+    solution:
+        1. map(): iterator, 단독으로는 시각화 불가능하고 list() 붙여야 가능.
+           !!! 파이썬 dictionary, 자바 hashmap, 자바스크립트 object와는 다름. !!!
+        2. Greedy algorithm, 언제나 최소 사이즈를 먼저 잘라야 비용 최소화
+           나의 경우 트리처럼 중간부터 들어가서 꼬임.
 '''
