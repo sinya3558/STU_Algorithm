@@ -22,8 +22,8 @@
   |:-----:|:-----|:-----:|:-----|:-----|:-----|:-----:|
   |**_14405_**|[피카츄](https://www.acmicpc.net/problem/14405)|실버 5|14405_피카츄.py|77min|`for_if`, `while`, `if`|✅|
   |**_13301_**|[타일장식물](https://www.acmicpc.net/problem/13301)|실버 5|13301_타일장식물.py|74min|`for`|✅|
-  |**_16208_**|[귀찮음](https://www.acmicpc.net/problem/16208)|실버 5|16208.py|over 2hrs|``|❌|
-
+  |**_16208_**|[귀찮음](https://www.acmicpc.net/problem/16208)|실버 5|16208_귀찮음.py|over 2hrs|``|❌|
+  |**_16435_**|[스네이크버드](https://www.acmicpc.net/problem/16435)|실버 5|16435_스네이크버드.py|17min|`if_for_if`|✅|
 
 </details>
 

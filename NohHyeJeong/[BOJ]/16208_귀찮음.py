@@ -71,9 +71,9 @@ if int(n) == int(len(l)): # length check if equal
             result += a * stick_len
 
         print(result)
-    solution:
+    note:
         1. map(): iterator, 단독으로는 시각화 불가능하고 list() 붙여야 가능.
            !!! 파이썬 dictionary, 자바 hashmap, 자바스크립트 object와는 다름. !!!
         2. Greedy algorithm, 언제나 최소 사이즈를 먼저 잘라야 비용 최소화
-           나의 경우 트리처럼 중간부터 들어가서 꼬임.
+           나의 경우 정렬하지 않았고, 트리처럼 중간부터 들어가서 꼬임.
 '''
