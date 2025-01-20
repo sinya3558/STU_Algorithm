@@ -5,7 +5,7 @@ N, L = int(N), int(L)
 h.sort()
 
 
-if int(N) == len(h):
+if (int(N) == len(h)) and (1<=N<=1000) and (1<=L<=10000):
     for i in h:
         if i <=L:
             L += 1    
