@@ -38,7 +38,8 @@
 | **_1806_**  | [부분합](https://www.acmicpc.net/problem/1806)        | 골드 4 | BOJ/P2003  | 16m    | `TwoPointer`         |  ✅   |
 | **_2143_**  | [두 배열의 합](https://www.acmicpc.net/problem/2143)    | 골드 3 | BOJ/P2143  | -      | `TwoPointer`, `Hash` |    ☑️    |
 | **_1003_**  | [피보나치 함수](https://www.acmicpc.net/problem/1003)    | 실버 3 | BOJ/P1003  | 16m    | `DP`                 |    ✅    |
-|  **_2178_**  | [미로 탐색](https://www.acmicpc.net/problem/2178)      | 실버 1 | BOJ/P2178  | 18m    | `BFS`                |  ✅   |
+| **_2178_**  | [미로 탐색](https://www.acmicpc.net/problem/2178)      | 실버 1 | BOJ/P2178  | 18m    | `BFS`                |  ✅   |
+| **_2776_**  | [암기왕](https://www.acmicpc.net/problem/2776)        | 실버 4 | BOJ/P2776  | 21m    | `Hash`               |  ✅   |
 </details>
 
 ### [SEA] 삼성 SW Expert Academy
