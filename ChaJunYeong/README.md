@@ -34,6 +34,7 @@
   |**_2470_**|[두 용액](https://www.acmicpc.net/problem/2470)|골드 5|./투포인터/2470_두용액.py|00:29:08.00|`투 포인터`|✔️|
   |**_1260_**|[DFS와 BFS](https://www.acmicpc.net/problem/1260)|실버 2|./그래프/1260_DFS와BFS.py|00:29:17.00|`그래프` `DFS` `BFS`|✅|
   |**_1697_**|[숨바꼭질](https://www.acmicpc.net/problem/1697)|실버 1|./그래프/1697_숨바꼭질.py|00:31:22.00|`그래프` </br> `BFS`|✔️|
+  |**_2667_**|[단지 번호 붙이기](https://www.acmicpc.net/problem/2667)|실버 1|./그래프/2667_단지번호붙이기기.py|00:31:22.00|`그래프` </br> `BFS`|✔️|
 </details>
 
 ### [PGS] 프로그래머스
