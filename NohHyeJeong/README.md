@@ -24,6 +24,8 @@
   |**_13301_**|[타일장식물](https://www.acmicpc.net/problem/13301)|실버 5|13301_타일장식물.py|74min|`for`|✅|
   |**_16208_**|[귀찮음](https://www.acmicpc.net/problem/16208)|실버 5|16208_귀찮음.py|over 2hrs|``|❌|
   |**_16435_**|[스네이크버드](https://www.acmicpc.net/problem/16435)|실버 5|16435_스네이크버드.py|17min|`if_for_if`|✅|
+  |**_16435_**|[StackingCups](https://www.acmicpc.net/problem/14769)|실버 5|14769_StackingCups.py|97min|``|❌|
+  |**_16435_**|[줄세우기](https://www.acmicpc.net/problem/11536)|실버 5|11536_줄세우기.py|19min|`if_for`, `if_if`|✅|
 
 </details>
 
