@@ -76,24 +76,25 @@ git commit -m "25/01/11 공통 문제 풀이 (학부 연구생 민상)" -m "http
 # 🧑‍💻 챌린지 참가자
 <table><tr>         
    <td align="center"><a href="https://github.com/sinya3558"><img src="https://avatars.githubusercontent.com/u/70243358?v=4?s=100" width="100px;" alt=""/>         <br /><sub><b>sinya3558</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/0"/></sub></a><br /></td>
-   <td align="center"><a href="https://github.com/hoooddy"><img src="https://avatars.githubusercontent.com/u/35017649?v=4?s=100" width="100px;" alt=""/>         <br /><sub><b>hoooddy</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/0"/></sub></a><br /></td>
+   <td align="center"><a href="https://github.com/hoooddy"><img src="https://avatars.githubusercontent.com/u/35017649?v=4?s=100" width="100px;" alt=""/>         <br /><sub><b>hoooddy</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/20"/></sub></a><br /></td>
    <td align="center"><a href="https://github.com/hjey"><img src="https://avatars.githubusercontent.com/u/94843707?v=4?s=100" width="100px;" alt=""/>         <br /><sub><b>hjey</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/0"/></sub></a><br /></td>
-   <td align="center"><a href="https://github.com/PARKYUNSU"><img src="https://avatars.githubusercontent.com/u/125172299?v=4?s=100" width="100px;" alt=""/>         <br /><sub><b>PARKYUNSU</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/0"/></sub></a><br /></td>
-   <td align="center"><a href="https://github.com/MyoungJinSon"><img src="https://avatars.githubusercontent.com/u/46157544?v=4?s=100" width="100px;" alt=""/>         <br /><sub><b>MyoungJinSon</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/0"/></sub></a><br /></td>
-   <td align="center"><a href="https://github.com/cjy8922"><img src="https://avatars.githubusercontent.com/u/34412522?v=4?s=400" width="100px;" alt=""/>         <br /><sub><b>cjy8922</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/0"/></sub></a><br /></td>
-   <td align="center"><a href="https://github.com/po2955"><img src="https://avatars.githubusercontent.com/u/84663334?v=4?s=100" width="100px;" alt=""/>         <br /><sub><b>po2955</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/0"/></sub></a><br /></td>
+   <td align="center"><a href="https://github.com/PARKYUNSU"><img src="https://avatars.githubusercontent.com/u/125172299?v=4?s=100" width="100px;" alt=""/>         <br /><sub><b>PARKYUNSU</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/2"/></sub></a><br /></td>
+   <td align="center"><a href="https://github.com/MyoungJinSon"><img src="https://avatars.githubusercontent.com/u/46157544?v=4?s=100" width="100px;" alt=""/>         <br /><sub><b>MyoungJinSon</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/5"/></sub></a><br /></td>
+   <td align="center"><a href="https://github.com/cjy8922"><img src="https://avatars.githubusercontent.com/u/34412522?v=4?s=400" width="100px;" alt=""/>         <br /><sub><b>cjy8922</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/12"/></sub></a><br /></td>
+   <td align="center"><a href="https://github.com/po2955"><img src="https://avatars.githubusercontent.com/u/84663334?v=4?s=100" width="100px;" alt=""/>         <br /><sub><b>po2955</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/3"/></sub></a><br /></td>
 </tr>
 </table>
 </br>
 
 ### 참석 여부
-- ✅ : 문제 풀이 완료
+- ✅ : 문제 풀이 (3문제 이상) 완료
+- ☑️ : 문제 풀이 (3문제 미만) 완료
 - ✔️ : 개인 사정으로 인한 면제
 - ❌ : 불참
 
 ||sinya3558|hoooddy|hjey|PARKYUNSU|MyoungJinSon|cjy8922|po2955|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|01/12 ~ 01/18 </br> (1주차) |✅|✅|✅|✅|✅|✅|✅|
+|01/12 ~ 01/18 </br> (1주차) |❌|✅|❌|☑️|✅|✅|✅|
 |01/19 ~ 01/25 </br> (2주차) | | | | | | | |
 |01/26 ~ 02/01 </br> (3주차) | | | | | | | |
 |02/02 ~ 02/08 </br> (4주차) | | | | | | | |
@@ -113,8 +114,8 @@ git commit -m "25/01/11 공통 문제 풀이 (학부 연구생 민상)" -m "http
    ### 1/12 ~ 2/3 공통 문제
    |제안자|문제 링크|sinya3558|hoooddy|hjey|PARKYUNSU|MyoungJinSon|cjy8922|po2955|
    |:-----:|:-----|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-   |hoooddy|[N-Queen](https://www.acmicpc.net/problem/9663)||-||||||
-   |cjy8922|[학부 연구생 민상](https://www.acmicpc.net/problem/21922)||||||-||
+   |hoooddy|[N-Queen](https://www.acmicpc.net/problem/9663)||-||||✅||
+   |cjy8922|[학부 연구생 민상](https://www.acmicpc.net/problem/21922)||✅||||-||
    
 </details>
 
