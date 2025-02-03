@@ -67,6 +67,7 @@ git commit -m "25/01/08 문제 풀이" -m "https://www.acmicpc.net/problem/1330"
    - 스터디원 모두가 푸는 것(혹은 고민해 보는 것)을 목적으로 하는 공통 문제 풀이
    - 2주 단위로 각자 1문제 씩 선정. 이때, 문제 제안자는 반드시 해당 문제를 한 번 이상 풀어볼 것
    - 다음 미팅 전까지 문제 풀어볼 것. 이때, Commit 혹은 PR Comment로 공통 문제 풀이했다고 명시할 것
+   - [공통 문제 리스트](problem.md) 
 ```
 git commit -m "25/01/11 공통 문제 풀이 (학부 연구생 민상)" -m "https://www.acmicpc.net/problem/1330"
 ```
