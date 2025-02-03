@@ -19,7 +19,8 @@
   |**_1158_**|[요세푸스 문제](https://www.acmicpc.net/problem/1158)|실버 4|./1158_요세푸스문제.py|00:27:52.17|`자료 구조` `큐`|✅|
   |**_1874_**|[스택 수열](https://www.acmicpc.net/problem/1874)|실버 2|./1874_스택수열.py|00:48.17.79|`자료 구조` `스택`|✅|
   |**_1260_**|[DFS와 BFS](https://www.acmicpc.net/problem/1260)|실버 2|./1260_DFS와BFS.py|00:37:50.13|`DFS` `BFS`|✅|
-  |**_21922_**|[학부 연구생 민상](https://www.acmicpc.net/problem/21922)|골드 5|./21922_학부연구생민상.py|1:55:29:28|`BFS` `시뮬레이션`|✅|
+  |**_21922_**|[학부 연구생 민상](https://www.acmicpc.net/problem/21922)|골드 5|./21922_학부연구생민상.py|01:55:29.28|`BFS` `시뮬레이션`|✅|
+  |**_9663_**|[N-Queen](https://www.acmicpc.net/problem/9663)|골드 4|./9663_N-Queen.py|02:00:00.00|`브루트포스 알고리즘` `백트래킹`|✔️|
 </details>
 
 ### [PGS] 프로그래머스
