@@ -116,10 +116,20 @@ git commit -m "25/01/11 공통 문제 풀이 (학부 연구생 민상)" -m "http
    |:-----:|:-----|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
    |hoooddy|[N-Queen](https://www.acmicpc.net/problem/9663)||-||||✅||
    |cjy8922|[학부 연구생 민상](https://www.acmicpc.net/problem/21922)||✅|||✅|-|✅|
+
+   ### 2/3 ~ 2/17 공통 문제
+   |제안자|문제 링크|sinya3558|hoooddy|hjey|PARKYUNSU|MyoungJinSon|cjy8922|po2955|
+   |:-----:|:-----|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+   |sinya3558|    |-|||||||
+   |hoooddy|      ||-||||||
+   |hjey|         |||-|||||
+   |PARKYUNSU|[양과 늑대](https://school.programmers.co.kr/learn/courses/30/lessons/92343)||||-||||
+   |MyoungJinSon|[넴모넴모](https://www.acmicpc.net/problem/14712)|||||-|||
+   |cjy8922|[기타레슨](https://www.acmicpc.net/problem/2343)||||||-||
+   |po2955|[유기농 배추](https://www.acmicpc.net/problem/1012)|||||||-|
    
 </details>
 
 -------
 
 위 규칙은 다음 레포지토리를 참고해서 제작하였습니다. </br>[알고리즘 및 코딩 테스트 문제 풀이 챌린지 100](https://github.com/ellynhan/challenge100-codingtest-study)
-
