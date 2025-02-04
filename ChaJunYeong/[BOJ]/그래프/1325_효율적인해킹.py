@@ -27,8 +27,8 @@ for i in range(1, n+1):
     q.append(i)
     isHacked[i] = True
     while q:
-        hack_com = q.popleft()
-        for next_com in relation[hack_com]:
+        cur_hack = q.popleft()
+        for next_com in relation[cur_hack]:
             if not isHacked[next_com]:
                 q.append(next_com)
                 isHacked[next_com] = True
