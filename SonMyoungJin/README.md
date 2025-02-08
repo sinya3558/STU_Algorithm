@@ -23,6 +23,7 @@
   |**_9663_**|[N-Queen](https://www.acmicpc.net/problem/9663)|골드 4|./9663_N-Queen.py|02:00:00.00|`브루트포스 알고리즘` `백트래킹`|✔️|
   |**_2606_**|[바이러스](https://www.acmicpc.net/problem/2606)|실버 3|./2606_바이러스.py|00:29:03.63|`BFS`|✅|
   |**_1012_**|[유기농 배추](https://www.acmicpc.net/problem/1012)|실버 2|./1012_유기농배추.py|01:03:09.25|`BFS`|✔️|
+  |**_15649_**|[N과 M(1)](https://www.acmicpc.net/problem/15649)|실버 3|./15649_N과M(1).py|00:29:03.63|`백트래킹`|✅|
 </details>
 
 ### [PGS] 프로그래머스
