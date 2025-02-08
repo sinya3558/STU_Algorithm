@@ -21,6 +21,8 @@
   |**_1260_**|[DFS와 BFS](https://www.acmicpc.net/problem/1260)|실버 2|./1260_DFS와BFS.py|00:37:50.13|`DFS` `BFS`|✅|
   |**_21922_**|[학부 연구생 민상](https://www.acmicpc.net/problem/21922)|골드 5|./21922_학부연구생민상.py|01:55:29.28|`BFS` `시뮬레이션`|✅|
   |**_9663_**|[N-Queen](https://www.acmicpc.net/problem/9663)|골드 4|./9663_N-Queen.py|02:00:00.00|`브루트포스 알고리즘` `백트래킹`|✔️|
+  |**_2606_**|[바이러스](https://www.acmicpc.net/problem/2606)|실버 3|./2606_바이러스.py|00:29:03.63|`BFS`|✅|
+  |**_1012_**|[유기농 배추](https://www.acmicpc.net/problem/1012)|실버 2|./1012_유기농배추.py|01:03:09.25|`BFS`|✔️|
 </details>
 
 ### [PGS] 프로그래머스
