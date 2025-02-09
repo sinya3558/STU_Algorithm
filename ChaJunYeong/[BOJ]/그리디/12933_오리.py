@@ -19,10 +19,7 @@ x = list(input())
     5. 있으면 -1, 없으면 오리 수 확인
 
     ★★★ 87%에서 에러발생...
-"""
 
-
-"""
     코드 참고 : https://velog.io/@gilyeon00/%EB%B0%B1%EC%A4%80-12933%EB%B2%88-%EC%98%A4%EB%A6%AC-python-%EC%8B%A4%EB%B2%843
 """
 
