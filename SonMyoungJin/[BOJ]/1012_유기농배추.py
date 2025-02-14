@@ -6,7 +6,6 @@ sys.stdin = open('input.txt', 'r')
 
 '''
 코드 참고 : https://velog.io/@falling_star3/%EB%B0%B1%EC%A4%80Python-1012%EB%B2%88-%EC%9C%A0%EA%B8%B0%EB%86%8D-%EB%B0%B0%EC%B6%94
-채점 시 런타임 에러남. 원인 모름. 코드 참고해도 모름. 참고한 코드도 런타임 에러. 
 
 인접한 배추끼리 배추흰지렁이 하나씩 => 필요한 배추흰지렁이 갯수 세는 문제
 - 인접한 배추를 탐색하기 위해 BFS.
