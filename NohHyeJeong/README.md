@@ -27,6 +27,7 @@
   |**_14769_**|[StackingCups](https://www.acmicpc.net/problem/14769)|실버 5|14769_StackingCups.py|97min|`Sorting`|❌|
   |**_11536_**|[줄세우기](https://www.acmicpc.net/problem/11536)|실버 5|11536_줄세우기.py|19min|`Sorting`|✅|
   |**_2911_**|[전화복구](https://www.acmicpc.net/problem/2911)|골드 1|2911_전화복구.py|116min|`Greedy`|❌|
+  |**_5462_**|[POI](https://www.acmicpc.net/problem/5462)|실버 5|5462_POI.py|over 2hrs|`Sorting`, `Ranking`|❌|
 
 
 </details>
