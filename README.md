@@ -78,16 +78,12 @@ git commit -m "25/01/11 공통 문제 풀이 (학부 연구생 민상)" -m "http
 <table><tr>         
    <td align="center"><a href="https://github.com/hoooddy"><img src="https://avatars.githubusercontent.com/u/35017649?v=4?s=100" width="100px;" alt=""/>
    <br /><sub><b>hoooddy</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/31"/></sub></a><br /></td>
-
    <td align="center"><a href="https://github.com/PARKYUNSU"><img src="https://avatars.githubusercontent.com/u/125172299?v=4?s=100" width="100px;" alt=""/>
    <br /><sub><b>PARKYUNSU</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/2"/></sub></a><br /></td>
-
    <td align="center"><a href="https://github.com/MyoungJinSon"><img src="https://avatars.githubusercontent.com/u/46157544?v=4?s=100" width="100px;" alt=""/>
    <br /><sub><b>MyoungJinSon</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/20"/></sub></a><br /></td>
-
    <td align="center"><a href="https://github.com/cjy8922"><img src="https://avatars.githubusercontent.com/u/34412522?v=4?s=400" width="100px;" alt=""/>
    <br /><sub><b>cjy8922</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/30"/></sub></a><br /></td>
-
    <td align="center"><a href="https://github.com/po2955"><img src="https://avatars.githubusercontent.com/u/84663334?v=4?s=100" width="100px;" alt=""/>
    <br /><sub><b>po2955</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/17"/></sub></a><br /></td>
 </tr></table>
@@ -95,13 +91,12 @@ git commit -m "25/01/11 공통 문제 풀이 (학부 연구생 민상)" -m "http
 <table><tr>      
    <td align="center"><a href="https://github.com/sinya3558"><img src="https://avatars.githubusercontent.com/u/70243358?v=4?s=100" width="100px;" alt=""/>
    <br /><sub><b>sinya3558</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/0"/></sub></a><br /></td>
-
    <td align="center"><a href="https://github.com/hjey"><img src="https://avatars.githubusercontent.com/u/94843707?v=4?s=100" width="100px;" alt=""/>
    <br /><sub><b>hjey</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/8"/></sub></a><br /></td>
 </tr></table>
 
-</br>
 
+</br>
 ### 참석 여부
 - ✅ : 문제 풀이 (3문제 이상) 완료
 - ☑️ : 문제 풀이 (3문제 미만) 완료
