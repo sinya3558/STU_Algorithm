@@ -75,7 +75,7 @@ git commit -m "25/01/11 공통 문제 풀이 (학부 연구생 민상)" -m "http
 --------
 
 # 🧑‍💻 챌린지 참가자
-<table><tr>         
+<table><tr>
    <td align="center"><a href="https://github.com/hoooddy"><img src="https://avatars.githubusercontent.com/u/35017649?v=4?s=100" width="100px;" alt=""/>
    <br /><sub><b>hoooddy</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/31"/></sub></a><br /></td>
    <td align="center"><a href="https://github.com/PARKYUNSU"><img src="https://avatars.githubusercontent.com/u/125172299?v=4?s=100" width="100px;" alt=""/>
@@ -88,7 +88,7 @@ git commit -m "25/01/11 공통 문제 풀이 (학부 연구생 민상)" -m "http
    <br /><sub><b>po2955</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/17"/></sub></a><br /></td>
 </tr></table>
 
-<table><tr>      
+<table><tr>
    <td align="center"><a href="https://github.com/sinya3558"><img src="https://avatars.githubusercontent.com/u/70243358?v=4?s=100" width="100px;" alt=""/>
    <br /><sub><b>sinya3558</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/0"/></sub></a><br /></td>
    <td align="center"><a href="https://github.com/hjey"><img src="https://avatars.githubusercontent.com/u/94843707?v=4?s=100" width="100px;" alt=""/>
@@ -97,11 +97,13 @@ git commit -m "25/01/11 공통 문제 풀이 (학부 연구생 민상)" -m "http
 
 
 </br>
+
 ### 참석 여부
 - ✅ : 문제 풀이 (3문제 이상) 완료
 - ☑️ : 문제 풀이 (3문제 미만) 완료
 - ✔️ : 개인 사정으로 인한 면제
 - ❌ : 불참
+
 
 ||sinya3558|hoooddy|hjey|PARKYUNSU|MyoungJinSon|cjy8922|po2955|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
