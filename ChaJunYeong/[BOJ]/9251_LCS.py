@@ -73,6 +73,7 @@ def input():
     최종적으로 LCS는 DP talbe의 우 하단값 (두 문자열을 모두 돌았을 때의 결과)과 동일함
 """
 
+
 a = input()
 b = input()
 
@@ -85,3 +86,40 @@ for i in range(1, len(a) + 1):
             dp[i][j] = max(dp[i-1][j], dp[i][j-1])
 
 print(dp[-1][-1])
+
+
+# a = input()
+# b = input()
+
+# dp = [[0] * (len(b) + 1) for _ in range(len(a) + 1)]
+# bt = [[0] * (len(b) + 1) for _ in range(len(a) + 1)]
+# for i in range(1, len(a) + 1):
+#     for j in range(1, len(b) + 1):
+#         if a[i-1] == b[j-1]:
+#             dp[i][j] = dp[i-1][j-1] + 1
+#             bt[i][j] = 1
+#         else:
+#             dp[i][j] = max(dp[i-1][j], dp[i][j-1])
+#             if dp[i-1][j] < dp[i][j-1]:
+#                 bt[i][j] = 2
+#             else:
+#                 bt[i][j] = 3
+
+# cur_x, cur_y = len(a), len(b)
+# result = ""
+# cnt = 0
+# while bt[cur_x][cur_y] != 0:
+#     if bt[cur_x][cur_y] == 1:
+#         cnt += 1
+#         result = a[cur_x - 1] + result
+#         cur_x -= 1
+#         cur_y -= 1
+    
+#     elif bt[cur_x][cur_y] == 2:
+#         cur_y -= 1
+    
+#     elif bt[cur_x][cur_y] == 3:
+#         cur_x -= 1
+
+# print(cnt)
+# print(result)
