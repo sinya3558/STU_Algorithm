@@ -12,8 +12,8 @@
 |sinya3558| |-|||||||
 |hoooddy| ||-||||||
 |hjey|[오리](https://www.acmicpc.net/problem/12933)||✅|-|||✅||
-|PARKYUNSU|[양과 늑대](https://school.programmers.co.kr/learn/courses/30/lessons/92343)||✅||-||✅||
-|MyoungJinSon|[넴모넴모](https://www.acmicpc.net/problem/14712)|||||-|||
+|PARKYUNSU|[양과 늑대](https://school.programmers.co.kr/learn/courses/30/lessons/92343)||||-||✅||
+|MyoungJinSon|[넴모넴모](https://www.acmicpc.net/problem/14712)||✅|||-|||
 |cjy8922|[기타레슨](https://www.acmicpc.net/problem/2343)||✅|||✅|-||
 |po2955|[유기농 배추](https://www.acmicpc.net/problem/1012)||✅|||✅|✅|-|
 
