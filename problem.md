@@ -12,16 +12,16 @@
 |sinya3558| |-|||||||
 |hoooddy| ||-||||||
 |hjey|[오리](https://www.acmicpc.net/problem/12933)||✅|-|||✅||
-|PARKYUNSU|[양과 늑대](https://school.programmers.co.kr/learn/courses/30/lessons/92343)||||-||✅||
+|PARKYUNSU|[양과 늑대](https://school.programmers.co.kr/learn/courses/30/lessons/92343)||✅||-||✅||
 |MyoungJinSon|[넴모넴모](https://www.acmicpc.net/problem/14712)|||||-|||
-|cjy8922|[기타레슨](https://www.acmicpc.net/problem/2343)|||||✅|-||
-|po2955|[유기농 배추](https://www.acmicpc.net/problem/1012)|||||✅|✅|-|
+|cjy8922|[기타레슨](https://www.acmicpc.net/problem/2343)||✅|||✅|-||
+|po2955|[유기농 배추](https://www.acmicpc.net/problem/1012)||✅|||✅|✅|-|
 
 ### 2/17 ~ 3/3 공통 문제
 |제안자|문제 링크|hoooddy|PARKYUNSU|MyoungJinSon|cjy8922|po2955|
 |:----:|:----:|:---:|:---:|:---:|:---:|:---:|
 |hoooddy|[평범한 배낭](https://www.acmicpc.net/problem/12865)|-|||||
-|PARKYUNSU|[주식 가격](https://school.programmers.co.kr/learn/courses/30/lessons/42584)||-|✅|||
+|PARKYUNSU|[주식 가격](https://school.programmers.co.kr/learn/courses/30/lessons/42584)|✅|-|✅|||
 |MyoungJinSon|[징검다리 건너기(Large)](https://www.acmicpc.net/problem/22871)|||-|||
 |cjy8922|[회의실 배정](https://www.acmicpc.net/problem/1931)||||-||
-|po2955|[최소 힙](https://www.acmicpc.net/problem/1927)|||✅||-|
+|po2955|[최소 힙](https://www.acmicpc.net/problem/1927)|✅||✅||-|
