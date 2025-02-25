@@ -65,6 +65,13 @@
   |:------:|:------|:------:|:------|:------|:------|:------:|
   |**_92343_**|	[양과 늑대](https://school.programmers.co.kr/learn/courses/30/lessons/92343)|	Lv. 3|	`완전 탐색`|	[양과늑대.py](./[PGS]/양과늑대.py)|	00:00:00.00|	✔️|
 
+  |**_12906_**|	[같은 숫자는 싫어](https://school.programmers.co.kr/learn/courses/30/lessons/12906)|	Lv. 1|	`자료 구조`|	[1_같은숫자는싫어.py](./[PGS]/자료구조/1_같은숫자는싫어.py)|	00:02:50.300|	✅|
+  |**_42586_**|	[기능 개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586)|	Lv. 2|	`자료 구조`|	[2_기능개발.py](./[PGS]/자료구조/2_기능개발.py)|	00:17:51.460|	✅|
+  |**_12909_**|	[올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909)|	Lv. 2|	`자료 구조`|	[3_올바른괄호.py](./[PGS]/자료구조/3_올바른괄호.py)|	00:05:07.880|	✅|
+  |**_42587_**|	[프로세스](https://school.programmers.co.kr/learn/courses/30/lessons/42587)|	Lv. 2|	`자료 구조`|	[4_프로세스.py](./[PGS]/자료구조/4_프로세스.py)|	00:12:06.440|	✅|
+  |**_42583_**|	[다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583)|	Lv. 2|	`자료 구조`|	[5_다리를지나는트럭.py](./[PGS]/자료구조/5_다리를지나는트럭.py)|	00:57:47.700|	✅|
+  |**_42584_**|	[주식 가격](https://school.programmers.co.kr/learn/courses/30/lessons/42584)|	Lv. 2|	`자료 구조`|	[6_주식가격.py](./[PGS]/자료구조/6_주식가격.py)|	00:27:52.108|	✅|
+
 </details>
 
 
