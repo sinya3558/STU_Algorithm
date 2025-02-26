@@ -38,8 +38,8 @@
   |**_11663_**|	[선분위의 점](https://www.acmicpc.net/problem/11663)|	실버 3|	`이분 탐색`|	[11663_선분위의점.py](./[BOJ]/이분탐색/11663_선분위의점.py)|	00:26:40.00|	✅|
   |**_1654_**|	[랜선자르기](https://www.acmicpc.net/problem/1654)|	실버 2|	`이분 탐색`|	[1654_랜선자르기.py](./[BOJ]/이분탐색/1654_랜선자르기.py)|	00:17:01.00|	✅|
   |**_2343_**|	[기타 레슨](https://www.acmicpc.net/problem/2343)|	실버 1|	`이분 탐색`|	[2343_기타레슨.py](./[BOJ]/이분탐색/2343_기타레슨.py)|	00:24:06.00|	✅|
-  |**_17503_**|	[맥주 축제](https://www.acmicpc.net/problem/17503)|	실버 1|	`이분 탐색`|	[17503_맥주축제.py](./[BOJ]/이분탐색/17503_맥주축제.py)|	00:54:04.00|	✔️|
-  |**_22871_**|	[징검다리 건너기](https://www.acmicpc.net/problem/22871)|	실버 1|	`이분 탐색`|	[22871_징검다리건너기.py](./[BOJ]/이분탐색/22871_징검다리건너기.py)|	01:13:16.57|	✔️|
+  |**_17503_**|	★ [맥주 축제](https://www.acmicpc.net/problem/17503)|	실버 1|	`이분 탐색`|	[17503_맥주축제.py](./[BOJ]/이분탐색/17503_맥주축제.py)|	00:54:04.00|	✔️|
+  |**_22871_**|	★ [징검다리 건너기](https://www.acmicpc.net/problem/22871)|	실버 1|	`이분 탐색`|	[22871_징검다리건너기.py](./[BOJ]/이분탐색/22871_징검다리건너기.py)|	01:13:16.57|	✔️|
   |**_2470_**|	[두 용액](https://www.acmicpc.net/problem/2470)|	골드 5|	`투 포인터`|	[2470_두용액.py](./[BOJ]/투포인터/2470_두용액.py)|	00:29:08.00|	✅|
   |**_1260_**|	[DFS와 BFS](https://www.acmicpc.net/problem/1260)|	실버 2|	`그래프`|	[1260_DFS와BFS.py](./[BOJ]/그래프/1260_DFS와BFS.py)|	00:29:17.00|	✅|
   |**_1012_**|	[유기농 배추](https://www.acmicpc.net/problem/1012)|	실버 2|	`그래프`|	[1012_유기농배추.py](./[BOJ]/그래프/1012_유기농배추.py)|	00:07:48.38|	✅|
@@ -70,14 +70,14 @@
   |**_42586_**|	[기능 개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586)|	Lv. 2|	`자료 구조`|	[2_기능개발.py](./[PGS]/자료구조/2_기능개발.py)|	00:17:51.46|	✅|
   |**_12909_**|	[올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909)|	Lv. 2|	`자료 구조`|	[3_올바른괄호.py](./[PGS]/자료구조/3_올바른괄호.py)|	00:05:07.88|	✅|
   |**_42587_**|	[프로세스](https://school.programmers.co.kr/learn/courses/30/lessons/42587)|	Lv. 2|	`자료 구조`|	[4_프로세스.py](./[PGS]/자료구조/4_프로세스.py)|	00:12:06.44|	✅|
-  |**_42583_**|	[★ 다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583)|	Lv. 2|	`자료 구조`|	[5_다리를지나는트럭.py](./[PGS]/자료구조/5_다리를지나는트럭.py)|	00:57:47.70|	✅|
-  |**_42584_**|	[★ 주식 가격](https://school.programmers.co.kr/learn/courses/30/lessons/42584)|	Lv. 2|	`자료 구조`|	[6_주식가격.py](./[PGS]/자료구조/6_주식가격.py)|	00:27:52.10|	✅|
+  |**_42583_**|	★ [다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583)|	Lv. 2|	`자료 구조`|	[5_다리를지나는트럭.py](./[PGS]/자료구조/5_다리를지나는트럭.py)|	00:57:47.70|	✅|
+  |**_42584_**|	★ [주식 가격](https://school.programmers.co.kr/learn/courses/30/lessons/42584)|	Lv. 2|	`자료 구조`|	[6_주식가격.py](./[PGS]/자료구조/6_주식가격.py)|	00:27:52.10|	✅|
   |**_86491_**|	[최소 직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491)|	Lv. 1|	`완전 탐색`|	[1_최소직사각형.py](./[PGS]/완전탐색/1_최소직사각형.py)|	00:33:11.71|	✅|
   |**_42840_**|	[모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840)|	Lv. 1|	`완전 탐색`|	[2_모의고사.py](./[PGS]/완전탐색/2_모의고사.py)|00:12:53.97|	✅|
   |**_42839_**|	[소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839)|	Lv. 2|	`완전 탐색`|	[3_소수찾기.py](./[PGS]/완전탐색/3_소수찾기.py)|	00:09:45.89|	✅|
   |**_42842_**|	[카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842)|	Lv. 2|	`완전 탐색`|	[4_카펫.py](./[PGS]/완전탐색/4_카펫.py)|	00:14:31.14|	✅|
-  |**_87946_**|	[★ 피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946)|	Lv. 2|	`완전 탐색`|	[5_피로도.py](./[PGS]/완전탐색/5_피로도.py)|	00:25:18.70|	✅|
-  |**_86971_**|	[★ 전력망을 둘로 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/86971)|	Lv. 2|	`완전 탐색`|	[6_전력망을둘로나누기.py](./[PGS]/완전탐색/6_전력망을둘로나누기.py)|	00:55:45.07|	✅|
+  |**_87946_**|	★ [피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946)|	Lv. 2|	`완전 탐색`|	[5_피로도.py](./[PGS]/완전탐색/5_피로도.py)|	00:25:18.70|	✅|
+  |**_86971_**|	★ [전력망을 둘로 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/86971)|	Lv. 2|	`완전 탐색`|	[6_전력망을둘로나누기.py](./[PGS]/완전탐색/6_전력망을둘로나누기.py)|	00:55:45.07|	✅|
   |**_84512_**|	[모음 사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512)|	Lv. 2|	`완전 탐색`|	[7_모음사전.py](./[PGS]/완전탐색/7_모음사전.py)|	00:37:54.06|	✅|
 
 </details>
