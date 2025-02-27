@@ -79,7 +79,6 @@
   |**_87946_**|	★ [피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946)|	Lv. 2|	`완전 탐색`|	[5_피로도.py](./[PGS]/완전탐색/5_피로도.py)|	00:25:18.70|	✅|
   |**_86971_**|	★ [전력망을 둘로 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/86971)|	Lv. 2|	`완전 탐색`|	[6_전력망을둘로나누기.py](./[PGS]/완전탐색/6_전력망을둘로나누기.py)|	00:55:45.07|	✅|
   |**_84512_**|	[모음 사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512)|	Lv. 2|	`완전 탐색`|	[7_모음사전.py](./[PGS]/완전탐색/7_모음사전.py)|	00:37:54.06|	✅|
-
   |**_43165_**|	[타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165)|	Lv. 2|	`그래프`|	[1_타겟넘버.py](./[PGS]/그래프/1_타겟넘버.py)|	00:08:53.32|	✅|
   |**_43162_**|	[네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162)|	Lv. 3|	`그래프`|	[2_네트워크.py](./[PGS]/그래프/2_네트워크.py)|  00:07:38.24|	✅|
   |**_1844_**|	[게임 맵 최단 거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844)|	Lv. 2|	`그래프`|	[3_게임맵최단거리.py](./[PGS]/그래프/3_게임맵최단거리.py)|	00:13:24.78|	✅|
