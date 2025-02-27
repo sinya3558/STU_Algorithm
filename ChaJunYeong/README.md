@@ -25,7 +25,7 @@
   |**_21922_**|	[학부 연구생 민상](https://www.acmicpc.net/problem/21922)|	골드 5|	`시뮬레이션`|	[21922_학부연구생민상.py](./[BOJ]/시뮬레이션/21922_학부연구생민상.py)|	01:07:49.42|	✅|
   |**_2529_**|	[부등호](https://www.acmicpc.net/problem/2529)|	실버 1|	`백 트래킹`|	[2529_부등호.py](./[BOJ]/백트래킹/2529_부등호.py)|	00:35:18.00|	✔️|
   |**_15686_**|	[치킨 배달](https://www.acmicpc.net/problem/15686)|	골드 5|	`백 트래킹`|	[15686_치킨배달.py](./[BOJ]/백트래킹/15686_치킨배달.py)|	01:13:04.00|	✔️|
-  |**_9663_**|	[N-Queens](https://www.acmicpc.net/problem/9663)|	골드 4|	`백 트래킹`|	[9663_NQueens.py](./[BOJ]/백트래킹/9663_NQueens.py)|	00:54:16.97|	✅|
+  |**_9663_**|	★ [N-Queens](https://www.acmicpc.net/problem/9663)|	골드 4|	`백 트래킹`|	[9663_NQueens.py](./[BOJ]/백트래킹/9663_NQueens.py)|	00:54:16.97|	✅|
   |**_1003_**|	[피보나치 함수](https://www.acmicpc.net/problem/1003)|	실버 3|	`동적 프로그래밍`|	[1003_피보나치함수.py](./[BOJ]/동적프로그래밍/1003_피보나치함수.py)|	00:10:45.00|	✅|
   |**_11726_**|	[2xn 타일링](https://www.acmicpc.net/problem/11726)|	실버 3|	`동적 프로그래밍`|	[11726_2xn타일링.py](./[BOJ]/동적프로그래밍/11726_2xn타일링.py)|	00:10:56.31|	✅|
   |**_1912_**|	[연속 합](https://www.acmicpc.net/problem/1912)|	실버 2|	`동적 프로그래밍`|	[1912_연속합.py](./[BOJ]/동적프로그래밍/1912_연속합.py)|	00:17:34.18|	✔️|
@@ -33,7 +33,7 @@
   |**_9251_**|	[LCS](https://www.acmicpc.net/problem/9251)|	골드 5|	`동적 프로그래밍`|	[9251_LCS.py](./[BOJ]/동적프로그래밍/9251_LCS.py)|	00:47:57.00|	✔️|
   |**_1018_**|	[체스판 다시 칠하기](https://www.acmicpc.net/problem/1018)|	실버 4|	`완전 탐색`|	[1018_체스판다시칠하기.py](./[BOJ]/완전탐색/1018_체스판다시칠하기.py)|	00:16:59.00|	✅|
   |**_1051_**|	[숫자 정사각형](https://www.acmicpc.net/problem/1051)|	실버 3|	`완전 탐색`|	[1051_숫자정사각형.py](./[BOJ]/완전탐색/1051_숫자정사각형.py)|	00:25:18.00|	✅|
-  |**_2615_**|	[오목](https://www.acmicpc.net/problem/2529)|	실버 1|	`완전 탐색`|	[2615_오목.py](./[BOJ]/완전탐색/2615_오목.py)|	01:06:54.00|	✅|
+  |**_2615_**|	★ [오목](https://www.acmicpc.net/problem/2529)|	실버 1|	`완전 탐색`|	[2615_오목.py](./[BOJ]/완전탐색/2615_오목.py)|	01:06:54.00|	✅|
   |**_2776_**|	[암기왕](https://www.acmicpc.net/problem/2776)|	실버 4|	`이분 탐색`|	[2776_암기왕.py](./[BOJ]/이분탐색/2776_암기왕.py)|	00:10:46.00|	✅|
   |**_11663_**|	[선분위의 점](https://www.acmicpc.net/problem/11663)|	실버 3|	`이분 탐색`|	[11663_선분위의점.py](./[BOJ]/이분탐색/11663_선분위의점.py)|	00:26:40.00|	✅|
   |**_1654_**|	[랜선자르기](https://www.acmicpc.net/problem/1654)|	실버 2|	`이분 탐색`|	[1654_랜선자르기.py](./[BOJ]/이분탐색/1654_랜선자르기.py)|	00:17:01.00|	✅|
@@ -80,7 +80,19 @@
   |**_86971_**|	★ [전력망을 둘로 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/86971)|	Lv. 2|	`완전 탐색`|	[6_전력망을둘로나누기.py](./[PGS]/완전탐색/6_전력망을둘로나누기.py)|	00:55:45.07|	✅|
   |**_84512_**|	[모음 사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512)|	Lv. 2|	`완전 탐색`|	[7_모음사전.py](./[PGS]/완전탐색/7_모음사전.py)|	00:37:54.06|	✅|
 
+  |**_43165_**|	[타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165)|	Lv. 2|	`그래프`|	[1_타겟넘버.py](./[PGS]/그래프/1_타겟넘버.py)|	00:08:53.32|	✅|
+  |**_43162_**|	[네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162)|	Lv. 3|	`그래프`|	[2_네트워크.py](./[PGS]/그래프/2_네트워크.py)|  00:07:38.24|	✅|
+  |**_1844_**|	[게임 맵 최단 거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844)|	Lv. 2|	`그래프`|	[3_게임맵최단거리.py](./[PGS]/그래프/3_게임맵최단거리.py)|	00:13:24.78|	✅|
+  |**_43163_**|	★ [단어 변환](https://school.programmers.co.kr/learn/courses/30/lessons/43163)|	Lv. 3|	`그래프`|	[4_단어변환.py](./[PGS]/그래프/4_단어변환.py)|	00:14:02.94|	✅|
+  |**_87694_**|	★ [아이템 줍기](https://school.programmers.co.kr/learn/courses/30/lessons/87694)|	Lv. 3|	`그래프`|	[5_아이템줍기.py](./[PGS]/그래프/5_아이템줍기.py)|	01:18:22.23|	✔️|
+  |**_43164_**|	★ [여행 경로](https://school.programmers.co.kr/learn/courses/30/lessons/43164)|	Lv. 3|	`그래프`|	[6_여행경로.py](./[PGS]/그래프/6_여행경로.py)|	00:40:12.60|	✅|
+  |**_84021_**|	★ [퍼즐 조각 채우기](https://school.programmers.co.kr/learn/courses/30/lessons/84021)|	Lv. 3|	`그래프`|	[7_퍼즐조각채우기.py](./[PGS]/그래프/7_퍼즐조각채우기.py)|	02:27:06.48|	✔️|
+
 </details>
+
+
+
+
 
 
 <!-- 
