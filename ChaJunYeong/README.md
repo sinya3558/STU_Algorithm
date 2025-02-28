@@ -93,7 +93,7 @@
 
 
 
-### [STU] 미팅 / 모의 코딩 테스트
+### [STU] 스터디 / 모의 코딩 테스트
 
 <details>
 	<summary>문제 풀이 모음집</summary>
