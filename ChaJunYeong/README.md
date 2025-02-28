@@ -103,7 +103,7 @@
   |:------:|:------|:------:|:------|:------|:------|:------:|
   |**_388351_**|	[유연 근무제](https://school.programmers.co.kr/learn/courses/30/lessons/388351)|	Lv. 1|	`모의 코딩테스트`|  25.02.28|	[1_유연근무제.py](./[STU]/25.02.28/1_유연근무제.py)|  ✅|
   |**_388352_**|	[비밀 코드 해독](https://school.programmers.co.kr/learn/courses/30/lessons/388352)|	Lv. 2|	`모의 코딩테스트`|  25.02.28|	[2_비밀코드해독.py](./[STU]/25.02.28/2_비밀코드해독.py)|	✅|
-  |**_388353_**|	[지게차와 크레인](https://school.programmers.co.kr/learn/courses/30/lessons/388353)|	Lv. 3|	`모의 코딩테스트`|  25.02.28|	[3_지게차와크레인.py](./[STU]/25.02.28/3_지게차와크레인.py)|	✅|
+  |**_388353_**|	[지게차와 크레인](https://school.programmers.co.kr/learn/courses/30/lessons/388353)|	Lv. 2|	`모의 코딩테스트`|  25.02.28|	[3_지게차와크레인.py](./[STU]/25.02.28/3_지게차와크레인.py)|	✅|
   |**_388354_**|	[홀짝 트리](https://school.programmers.co.kr/learn/courses/30/lessons/388354)|	Lv. 3|	`모의 코딩테스트`|  25.02.28|	[4_홀짝트리.py](./[STU]/25.02.28/4_홀짝트리.py)|	(시간초과)❌|
   
 
