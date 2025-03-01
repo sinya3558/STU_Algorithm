@@ -1,4 +1,5 @@
-from collections import deque
+import sys
+sys.setrecursionlimit(2000001)
 
 def solution(nodes, edges):
 
@@ -13,63 +14,84 @@ def solution(nodes, edges):
         목표 : 각 트리에 대한 루트 노드를 설정했을 때, 홀짝 트리가 될 수 있는 트리 개수와 역홀짝 트리가 될 수 있는 트리 개수 구하기
             - 홀짝 트리 : 홀수 노드 + 짝수 노드로만 구성
             - 역홀짝 트리 : 역홀수 노드 + 역짝수 노드로만 구성
-
             모든 트리는 (홀짝 트리 / 역홀짝 트리 / 둘 다 / 둘다 안됨) 중 하나가 될 수 있음
             → 모든 노드를 루트 노드로 설정해서 홀짝 트리인지 역홀짝 트리인지 판단해야 할듯
 
         풀이 :
             모든 노드를 루트 노드로 설정해 보면서 홀짝 트리인지 역홀짝 트리인지 판단하는 알고리즘 구성하면 될 것 같음
-            깊이 우선 탐색으로 트리를 탐색하기엔 많은 시간이 걸릴 것 같음
-            현재 노드 부터 홀짝 노드인지 아닌지 먼저 판단하고, 깊이 들어가면서 판단하면 될듯
-    """
+            시간을 최대한 줄여봤음에도 불구하고 마지막 추가 제한 사항 없음 부분에서 시간 초과 발생함.. (test case 45, 46, 47)
 
-    answer = [0, 0]
+            
+        ★ 코드 참고 : https://school.programmers.co.kr/questions/85689
+            - 기본적으로 모든 노드는 어떤 노드를 루트 노드로 정해도 홀짝 / 역홀짝의 성질이 바뀌지 않음
+            - 다만, 루트 노드의 경우에만 홀짝 / 역홀짝 여부가 바뀜
+            - 따라서 루트 노드가 A였던 트리의 루트 노드를 B로 바꾸면, A, B만 그 성질이 바뀌게 됨
+
+            EX) graph info = 3: [2, 6, 4], 2: [3], 4: [3], 6: [3]
+                이 상황에서, 2를 루트노드로 설정하면
+                    - 2 = 역홀짝, 3 = 역홀짝, 4 = 홀짝, 6 = 홀짝
+                근데, 루트 노드 2를 3으로 바꾸면
+                    - 2 = 홀짝, 3 = 홀짝, 4 = 홀짝, 6 = 홀짝
+
+            - 따라서, 특정 노드를 루트 노드로 설정한 다음, 해당 노드와 연결된 모든 노드들의 성질을 미리 계산
+            - 이후, 홀짝 노드와 역홀짝 노드의 갯수에 따라 가능한 트리 종류 파악
+                1. 노드가 2개인 상태에서, 홀짝 노드 == 0 이거나 역홀짝 노드 == 0 이면, 홀짝 트리, 역홀짝 트리 둘 다 가능
+                2. 만약 홀짝 노드가 0개이면 → 역홀짝 트리
+                3. 만약 역홀짝 노드가 0개이면 → 홀짝 트리
+                4. 만약 홀짝 노드가 2개이고, 루트 노드가 홀짝 노드일 경우 → 역홀짝트리 가능
+                    (루트 노드가 홀짝 노드여야 함. 만약 루트 노드가 아닌 다른 노드 2개가 홀짝 트리이면, 바꿔도 그 성질이 변하지 않음)
+                5. 만약 역홀짝 노드가 2개이고, 루트 노드가 역홀짝 노드일 경우 → 홀짝트리 가능
+                    (3과 마찬가지)
+    """
 
     # 그래프에 대한 정보 저장
     graph = {node: [] for node in nodes}
     for s, e in edges:
         graph[s].append(e)
         graph[e].append(s)
+
+
+    def dfs(cur_node, parent):
+        cnt = 0
+        for nxt_node in graph[cur_node]:
+            if nxt_node == parent: continue
+            dfs(nxt_node, cur_node)
+            cnt += 1
+
+        visited[cur_node] = True
+        cur_node_type =  0 if (cur_node % 2 == cnt % 2) else 1
+        node_type[cur_node_type] += 1
+        return cur_node_type
     
+    # 그룹을 이루는 트리가 홀짝 트리인지 역홀짝 트리인지 구분
+    # 1. 임의로 루트 노드 설정 후, 해당 트리의 홀짝 노드와 역홀짝 노드의 갯수 계산
+    # 2. 홀짝 트리인지 역홀짝 트리인지 계산
+        # 2-1. 계산된 트리의 노드 갯수가 2개이고, 홀짝 노드 갯수가 0, 역홀짝 노드 갯수가 0이라면, 둘 다 가능
+        # 2-2. 홀짝 노드의 갯수가 0개면, 역홀짝 트리
+        # 2-3. 역홀짝 노드의 갯수가 0개면, 홀짝 트리
+        # 2-4. 루트 노드가 홀짝 노드이고, 홀짝 노드의 갯수가 2개라면, 역홀짝 트리
+        # 2-5. 루트 노드가 역홀짝 노드이고, 역홀짝 노드의 갯수가 2개라면, 홀짝 트리
+        # (2-4. 에 대해서 루트 노드가 아닌 다른 노드가 홀짝 노드라면, 해당 노드와 다른 홀짝 노드끼리 바꿔도 그 성질이 변하지 않음 → 즉 아무 트리도 아님)
 
-    # 모든 노드를 루트 노드로 두고 트리 종류 구하기
-    def check_tree(node):
-        q = deque([node])
-        tree = -1
-
-        while q:
-            cur_node = q.popleft()
-            if tree == -2:
-                return
-            
-            if len(graph[cur_node]) == 0:
-                return cur_node % 2
-            
-            else:
-                cnt = 0
-                for child in graph[cur_node]:
-                    if not visited[child]:
-                        cnt += 1
-                        visited[child] = True
-                        q.append(child)
-
-                cur_tree = (cur_node % 2) == (cnt % 2)
-                cur_tree = 0 if cur_tree else 1
-
-                if   tree == -1: tree = cur_tree
-                elif tree != cur_tree: tree = -2
-
-        return tree                
-
-
+    answer = [0, 0]
+    visited = [False] * 1000001
     for node in nodes:
-        visited = [False] * (max(nodes) + 1)
-        visited[node] = True
-        tree = check_tree(node)
-        if tree == 0 or tree == 1:
-            answer[tree] += 1
+        if visited[node]: continue
 
+        # 0 : 홀짝 노드, 1 : 역홀짝 노드
+        node_type = [0, 0]  
+        root_node_type = dfs(node, 0)
+
+        if sum(node_type) == 2 and (node_type[0] == 0 or node_type[1] == 0):
+            answer[0] += 1
+            answer[1] += 1
+        elif node_type[0] == 0: answer[1] += 1
+        elif node_type[1] == 0: answer[0] += 1
+        elif node_type[0] == 2 and root_node_type == 0: answer[1] += 1
+        elif node_type[1] == 2 and root_node_type == 1: answer[0] += 1
+    
     return answer
+
 
 
 def main():
