@@ -90,6 +90,12 @@
   |**_87694_**|	★ [아이템 줍기](https://school.programmers.co.kr/learn/courses/30/lessons/87694)|	Lv. 3|	`그래프`|	[5_아이템줍기.py](./[PGS]/그래프/5_아이템줍기.py)|	01:18:22.23|	✔️|
   |**_43164_**|	★ [여행 경로](https://school.programmers.co.kr/learn/courses/30/lessons/43164)|	Lv. 3|	`그래프`|	[6_여행경로.py](./[PGS]/그래프/6_여행경로.py)|	00:40:12.60|	✅|
   |**_84021_**|	★ [퍼즐 조각 채우기](https://school.programmers.co.kr/learn/courses/30/lessons/84021)|	Lv. 3|	`그래프`|	[7_퍼즐조각채우기.py](./[PGS]/그래프/7_퍼즐조각채우기.py)|	02:27:06.48|	✔️|
+  |**_1845_**|	[폰켓몬](https://school.programmers.co.kr/learn/courses/30/lessons/1845)|	Lv. 1|	`해시`|	[1_폰켓몬.py](./[PGS]/해시/1_폰켓몬.py)|	00:09:18.80|	✅|
+  |**_42576_**|	[완주하지 못한 선수](https://school.programmers.co.kr/learn/courses/30/lessons/42576)|	Lv. 1|	`해시`|	[2_완주하지못한선수.py](./[PGS]/해시/2_완주하지못한선수.py)|  00:05:28.41|	✅|
+  |**_42577_**|	[전화번호 목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577)|	Lv. 2|	`해시`|	[3_전화번호목록.py](./[PGS]/해시/3_전화번호목록.py)|	00:12:00.07|	✅|
+  |**_42578_**|	[의상](https://school.programmers.co.kr/learn/courses/30/lessons/42578)|	Lv. 2|	`해시`|	[4_의상.py](./[PGS]/해시/4_의상.py)|	00:16:01.22|	✅|
+  |**_42579_**|	[베스트 앨범](https://school.programmers.co.kr/learn/courses/30/lessons/42579)|	Lv. 3|	`해시`|	[5_베스트앨범.py](./[PGS]/해시/5_베스트앨범.py)|	00:14:32.18|	✅|
+
 
 </details>
 
