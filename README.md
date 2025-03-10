@@ -77,15 +77,15 @@ git commit -m "25/01/11 공통 문제 풀이 (학부 연구생 민상)" -m "http
 # 🧑‍💻 챌린지 참가자
 <table><tr>
    <td align="center"><a href="https://github.com/hoooddy"><img src="https://avatars.githubusercontent.com/u/35017649?v=4?s=100" width="100px;" alt=""/>
-   <br /><sub><b>hoooddy</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/44"/></sub></a><br /></td>
+   <br /><sub><b>hoooddy</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/48"/></sub></a><br /></td>
    <td align="center"><a href="https://github.com/PARKYUNSU"><img src="https://avatars.githubusercontent.com/u/125172299?v=4?s=100" width="100px;" alt=""/>
    <br /><sub><b>PARKYUNSU</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/8"/></sub></a><br /></td>
    <td align="center"><a href="https://github.com/MyoungJinSon"><img src="https://avatars.githubusercontent.com/u/46157544?v=4?s=100" width="100px;" alt=""/>
-   <br /><sub><b>MyoungJinSon</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/30"/></sub></a><br /></td>
+   <br /><sub><b>MyoungJinSon</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/34"/></sub></a><br /></td>
    <td align="center"><a href="https://github.com/cjy8922"><img src="https://avatars.githubusercontent.com/u/34412522?v=4?s=400" width="100px;" alt=""/>
    <br /><sub><b>cjy8922</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/55"/></sub></a><br /></td>
    <td align="center"><a href="https://github.com/po2955"><img src="https://avatars.githubusercontent.com/u/84663334?v=4?s=100" width="100px;" alt=""/>
-   <br /><sub><b>po2955</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/23"/></sub></a><br /></td>
+   <br /><sub><b>po2955</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/24"/></sub></a><br /></td>
 </tr></table>
 
 <table><tr>
@@ -117,6 +117,8 @@ git commit -m "25/01/11 공통 문제 풀이 (학부 연구생 민상)" -m "http
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |02/16 ~ 02/22 </br> (6주차) |✅|❌|✅|☑️|✅|
 |02/23 ~ 03/01 </br> (7주차) |✅|✅|✅|✅|✅|
+|03/02 ~ 03/08 </br> (8주차) |✅|❌|✅|✅|☑️|
+
 </br>
 
 -------
