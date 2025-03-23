@@ -55,6 +55,7 @@
   |**_92343_**|[양과 늑대](https://school.programmers.co.kr/learn/courses/30/lessons/92343)|Lv 3|[92343_양과늑대.py](./[PGS]/92343_양과늑대.py)|01:02:40.45|`완전 탐색` `백트래킹`|✅|
   |**_42584_**|[주식 가격](https://school.programmers.co.kr/learn/courses/30/lessons/42584)|Lv 2|[42584_주식가격.py](./[PGS]/42584_주식가격.py)|00:32:04.89|`스택` `큐`|✅|
   |**_42626_**|[더 맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626)|Lv 2|[42626_더맵게.py](./[PGS]/42626_더맵게.py)|00:20:48.97|`힙`|✅|
+  |**_84021_**|[퍼즐 조각 채우기](https://school.programmers.co.kr/learn/courses/30/lessons/84021)|Lv 3|[84021_퍼즐조각채우기.py](./[PGS]/84021_퍼즐조각채우기.py)|02:00:00.00|`BFS` `구현`|✅|
 </details>
 
 ### [LTC] 리트코드
