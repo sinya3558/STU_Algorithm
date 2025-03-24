@@ -33,11 +33,11 @@
 ### 3/3 ~ 3/17 공통 문제
 |제안자|문제 링크|hoooddy|PARKYUNSU|MyoungJinSon|cjy8922|po2955|
 |:----:|:----:|:---:|:---:|:---:|:---:|:---:|
-|hoooddy|[1로 만들기 2](https://www.acmicpc.net/problem/12852)|-|||✅||
-|PARKYUNSU|[더 맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626)|✅|-|✅|||
-|MyoungJinSon|[퇴사 2](https://www.acmicpc.net/problem/15486)|✅||-|||
-|cjy8922|[퍼즐 조각 채우기](https://school.programmers.co.kr/learn/courses/30/lessons/84021)||||-||
-|po2955|[최단 경로](https://www.acmicpc.net/problem/1753)|✅||||-|
+|hoooddy|[1로 만들기 2](https://www.acmicpc.net/problem/12852)|-||✅|✅|✅|
+|PARKYUNSU|[더 맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626)|✅|-|✅|✅|✅|
+|MyoungJinSon|[퇴사 2](https://www.acmicpc.net/problem/15486)|✅||-|✅||
+|cjy8922|[퍼즐 조각 채우기](https://school.programmers.co.kr/learn/courses/30/lessons/84021)|||✅|-||
+|po2955|[최단 경로](https://www.acmicpc.net/problem/1753)|✅|||✅|-|
 
 
 ### 3/17 ~ 3/31 공통 문제
