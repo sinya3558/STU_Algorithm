@@ -1,7 +1,7 @@
 import sys
 def input():
     return sys.stdin.readline().rstrip()
-
+ 
 """
     00:38:30.09
 
