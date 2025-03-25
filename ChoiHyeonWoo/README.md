@@ -63,6 +63,7 @@
   |:-----:|:-----|:-----:|:-----|:-----|:-----|:-----:|
   |**____**|[코드트리 빵](https://www.codetree.ai/ko/frequent-problems/problems/codetree-mon-bread/description)|L14|./삼성/(코드트리)코드트리 빵.py|03:30:00.00|`Simulation, BFS`|✅|
   |**____**|[색깔 폭탄](https://www.codetree.ai/ko/frequent-problems/problems/colored-bomb/description)|L14|./삼성/2022_하반기_오후_1번_코드트리 빵.py|01:30:00.00|`Simulation, BFS`|✅|
+  |**____**|[원자 충돌](https://www.codetree.ai/ko/frequent-problems/problems/atom-collision/description?introductionSetId=&bookmarkId=)|L12|./삼성/2020_하반기_오전_2번_원자_충돌.py|01:20:00.00|`Simulation`|✅|
 
 </details>
 
