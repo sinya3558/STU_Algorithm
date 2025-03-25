@@ -53,6 +53,19 @@
 
 </details>
 
+### [CDT] 코드트리
+
+<details>
+	<summary>문제 풀이 모음집</summary>
+  </br>
+  
+  |코드 번호|이름|난이도|풀이 코드|풀이 시간|풀이 유형|상태|
+  |:-----:|:-----|:-----:|:-----|:-----|:-----|:-----:|
+  |**____**|[코드트리 빵](https://www.codetree.ai/ko/frequent-problems/problems/codetree-mon-bread/description)|L14|./삼성/(코드트리)코드트리 빵.py|03:30:00.00|`Simulation, BFS`|✅|
+  |**____**|[색깔 폭탄](https://www.codetree.ai/ko/frequent-problems/problems/colored-bomb/description)|L14|./삼성/2022_하반기_오후_1번_코드트리 빵.py|01:30:00.00|`Simulation, BFS`|✅|
+
+</details>
+
 ### [LTC] 리트코드
 
 <details>
