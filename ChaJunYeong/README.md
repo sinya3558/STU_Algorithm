@@ -33,6 +33,8 @@
   |**_11053_**|	★ [가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053)|	실버 2|	`동적 프로그래밍`|	[11053_가장긴증가하는부분수열.py](./[BOJ]/동적프로그래밍/11053_가장긴증가하는부분수열.py)|	00:18:52.10|	✔️|
   |**_9251_**|	★ [LCS](https://www.acmicpc.net/problem/9251)|	골드 5|	`동적 프로그래밍`|	[9251_LCS.py](./[BOJ]/동적프로그래밍/9251_LCS.py)|	00:47:57.00|	✔️|
   |**_12865_**|	★ [평범한 배낭](https://www.acmicpc.net/problem/12865)|	골드 5|	`동적 프로그래밍`|	[12865_평범한배낭.py](./[BOJ]/동적프로그래밍/12865_평범한배낭.py)|	01:31:24.35|	✔️|
+  |**_12852_**|	★ [1로 만들기 2](https://www.acmicpc.net/problem/12852)|	골드 5|	`동적 프로그래밍`|	[12852_1로만들기2.py](./[BOJ]/동적프로그래밍/12852_1로만들기2.py)|	00:38:30.09|	✅|
+  |**_15486_**|	★ [퇴사2](https://www.acmicpc.net/problem/15486)|	골드 5|	`동적 프로그래밍`|	[15486_퇴사2.py](./[BOJ]/동적프로그래밍/15486_퇴사2.py)|	00:41:32.01|	✔️|
   |**_1018_**|	[체스판 다시 칠하기](https://www.acmicpc.net/problem/1018)|	실버 4|	`완전 탐색`|	[1018_체스판다시칠하기.py](./[BOJ]/완전탐색/1018_체스판다시칠하기.py)|	00:16:59.00|	✅|
   |**_1051_**|	[숫자 정사각형](https://www.acmicpc.net/problem/1051)|	실버 3|	`완전 탐색`|	[1051_숫자정사각형.py](./[BOJ]/완전탐색/1051_숫자정사각형.py)|	00:25:18.00|	✅|
   |**_2615_**|	★ [오목](https://www.acmicpc.net/problem/2529)|	실버 1|	`완전 탐색`|	[2615_오목.py](./[BOJ]/완전탐색/2615_오목.py)|	01:06:54.00|	✅|
@@ -51,6 +53,7 @@
   |**_1707_**|	[이분 그래프](https://www.acmicpc.net/problem/1707)|	골드 4|	`그래프`|	[1707_이분그래프.py](./[BOJ]/그래프/1707_이분그래프.py)|	00:43:30.00|	✔️|
   |**_2573_**|	[빙산](https://www.acmicpc.net/problem/2573)|	골드 4|	`그래프`|	[2573_빙산.py](./[BOJ]/그래프/2573_빙산.py)|	00:19:26.03|	✅|
   |**_10282_**|	★ [해킹](https://www.acmicpc.net/problem/10282)|	골드 4|	`그래프`|	[10282_해킹.py](./[BOJ]/그래프/10282_해킹.py)|	00:10:28.93|	✅|
+  |**_1753_**|	★ [최단경로](https://www.acmicpc.net/problem/1753)|	골드 4|	`그래프`|	[1753_최단경로.py](./[BOJ]/그래프/1753_최단경로.py)|	00:20:07.78|	✅|
   |**_27961_**|	[고양이는 많을수록 좋다](https://www.acmicpc.net/problem/27961)|	브론즈 1|	`그리디`|	[27961_고양이는많을수록좋다.py](./[BOJ]/그리디/27961_고양이는많을수록좋다.py)|	00:09:23.00|	✅|
   |**_11399_**|	[ATM](https://www.acmicpc.net/problem/11399)|	실버 4|	`그리디`|	[11399_ATM.py](./[BOJ]/그리디/11399_ATM.py)|	00:15:18.00|	✅|
   |**_12933_**|	[오리](https://www.acmicpc.net/problem/12933)|	실버 2|	`그리디`|	[12933_오리.py](./[BOJ]/그리디/12933_오리.py)|	00:35:52.00|	✔️|
@@ -76,6 +79,7 @@
   |**_42587_**|	[프로세스](https://school.programmers.co.kr/learn/courses/30/lessons/42587)|	Lv. 2|	`자료 구조`|	[4_프로세스.py](./[PGS]/자료구조/4_프로세스.py)|	00:12:06.44|	✅|
   |**_42583_**|	★ [다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583)|	Lv. 2|	`자료 구조`|	[5_다리를지나는트럭.py](./[PGS]/자료구조/5_다리를지나는트럭.py)|	00:57:47.70|	✅|
   |**_42584_**|	★ [주식 가격](https://school.programmers.co.kr/learn/courses/30/lessons/42584)|	Lv. 2|	`자료 구조`|	[6_주식가격.py](./[PGS]/자료구조/6_주식가격.py)|	00:27:52.10|	✅|
+  |**_42626_**|	[더맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626)|	Lv. 2|	`자료 구조`|	[42626_더맵게.py](./[PGS]/자료구조/42626_더맵게.py)|	00:12:01.10|	✅|
   |**_86491_**|	[최소 직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491)|	Lv. 1|	`완전 탐색`|	[1_최소직사각형.py](./[PGS]/완전탐색/1_최소직사각형.py)|	00:33:11.71|	✅|
   |**_42840_**|	[모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840)|	Lv. 1|	`완전 탐색`|	[2_모의고사.py](./[PGS]/완전탐색/2_모의고사.py)|00:12:53.97|	✅|
   |**_42839_**|	[소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839)|	Lv. 2|	`완전 탐색`|	[3_소수찾기.py](./[PGS]/완전탐색/3_소수찾기.py)|	00:09:45.89|	✅|
@@ -90,6 +94,12 @@
   |**_87694_**|	★ [아이템 줍기](https://school.programmers.co.kr/learn/courses/30/lessons/87694)|	Lv. 3|	`그래프`|	[5_아이템줍기.py](./[PGS]/그래프/5_아이템줍기.py)|	01:18:22.23|	✔️|
   |**_43164_**|	★ [여행 경로](https://school.programmers.co.kr/learn/courses/30/lessons/43164)|	Lv. 3|	`그래프`|	[6_여행경로.py](./[PGS]/그래프/6_여행경로.py)|	00:40:12.60|	✅|
   |**_84021_**|	★ [퍼즐 조각 채우기](https://school.programmers.co.kr/learn/courses/30/lessons/84021)|	Lv. 3|	`그래프`|	[7_퍼즐조각채우기.py](./[PGS]/그래프/7_퍼즐조각채우기.py)|	02:27:06.48|	✔️|
+  |**_1845_**|	[폰켓몬](https://school.programmers.co.kr/learn/courses/30/lessons/1845)|	Lv. 1|	`해시`|	[1_폰켓몬.py](./[PGS]/해시/1_폰켓몬.py)|	00:09:18.80|	✅|
+  |**_42576_**|	[완주하지 못한 선수](https://school.programmers.co.kr/learn/courses/30/lessons/42576)|	Lv. 1|	`해시`|	[2_완주하지못한선수.py](./[PGS]/해시/2_완주하지못한선수.py)|  00:05:28.41|	✅|
+  |**_42577_**|	[전화번호 목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577)|	Lv. 2|	`해시`|	[3_전화번호목록.py](./[PGS]/해시/3_전화번호목록.py)|	00:12:00.07|	✅|
+  |**_42578_**|	[의상](https://school.programmers.co.kr/learn/courses/30/lessons/42578)|	Lv. 2|	`해시`|	[4_의상.py](./[PGS]/해시/4_의상.py)|	00:16:01.22|	✅|
+  |**_42579_**|	[베스트 앨범](https://school.programmers.co.kr/learn/courses/30/lessons/42579)|	Lv. 3|	`해시`|	[5_베스트앨범.py](./[PGS]/해시/5_베스트앨범.py)|	00:14:32.18|	✅|
+
 
 </details>
 

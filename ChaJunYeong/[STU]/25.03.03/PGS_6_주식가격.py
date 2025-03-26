@@ -1,54 +1,36 @@
+'''
+prices = 초 단위의 가격
+
+[1, 2, 3, 2, 3]
+[4, 3, 1, 1, 0]
+입력된 배열의 길이 = 총 주가 기록 시간 (5초)
+'''
+
+from collections import deque
 def solution(prices):
+    answer = []              # 각 시점별로 계산한 '떨어지지 않은 시간'을 저장할 리스트
+    dq = deque(prices)       # 리스트를 덱(deque)으로 변환 (popleft() 시 O(1)로 처리)
 
-    """
-        초 단위로 기록된 주식가격이 떨어질 때 까지 걸린 시간 측정
-
-        [1, 2, 3, 2, 3]의 경우
-        1. 1은 마지막까지 가격이 떨어지지 않음 (+4)
-        2. 2는 마지막까지 가격이 떨어지지 않음 (+3)
-        3. 3은 그 다음 2에서 가격이 떨어짐 (+1)
-        4. 2는 마지막까지 가격이 떨어지지 않음 (+1)
-        5. 3이후에 주식 가격 변동이 없음 (+0)
-
-        00:27:52.108
-
-        풀이:
-            스택으로 풀이 - 스택에는 가격과 time stamp에 대한 정보를 저장
-            1. 현재 가격이 이전 가격보다 크거나, 스택이 비어있다면 스택에 저장
-            2. 현재 가격이 이전 가격보다 작으면 pop
-                2-1. 현재 시간과 이전 가격이 들어온 시간 만큼의 차이를 answer에 저장장
-            3. 마지막으로 스택에 남아 있는 가격들을 제거 (전체 주식 가격 변동 시간 - 들어온 시간간)
-    """
-
-    answer = [0] * len(prices)
-
-    price_stack = []
-    for t in range(len(prices)):
-        if len(price_stack) == 0:
-            price_stack.append((prices[t], t))
-
-        else:
-            cur_price = prices[t]
-            while True:
-                if len(price_stack) == 0 or price_stack[-1][0] <= cur_price:
-                    price_stack.append((cur_price, t))
-                    break
+    while dq:                # 덱에 데이터가 남아 있는 동안 반복
+        current = dq.popleft()  
+        # 덱의 맨 왼쪽(가장 오래된) 데이터를 꺼냄. 
+        # 이 current 값에 대해 '다음 주가들과 비교하여 떨어지지 않은 기간'을 측정할 예정
+        
+        count = 0            # 현재 시점에서 '가격이 떨어지지 않은 기간(초)'을 셀 변수
+        
+        for price in dq:     # 남아 있는 주가들을 순차적으로 확인
+            if current <= price:
+                # 만약 '현재 주가'가 이후 시점의 주가보다 작거나 같다면
+                # 가격이 떨어지지 않은 것으로 판단하여 count를 1 증가
+                count += 1
+            else:
+                # 만약 '현재 주가'가 이후 시점의 주가보다 크면
+                # 여기서 count를 1 증가시키고(해당 순간 '떨어졌음'을 기록)
+                # 루프를 즉시 종료한다.
+                count += 1
+                break
                 
-                _, pre_ts = price_stack.pop()
-                answer[pre_ts] = t - pre_ts
-
-    for _, pre_ts in price_stack:
-        answer[pre_ts] = len(prices) - pre_ts - 1
-
+            # 해당 코드 구조상, 반복문을 돌 때마다 answer에 count 값을 계속 추가하게 됨.
+            answer.append(count)
+            
     return answer
-
-
-def main():
-    print(solution([1, 2, 3, 2, 3]))    # [4, 3, 1, 1, 0]
-    print(solution([1, 2, 3, 2, 3, 4, 1]))  # [6, 5, 1, 3, 2, 1, 0]
-    print(solution([3, 1])) # [1, 0]
-
-
-if __name__ == "__main__":
-    main()
-
