@@ -66,7 +66,7 @@
   |**____**|[원자 충돌](https://www.codetree.ai/ko/frequent-problems/problems/atom-collision/description?introductionSetId=&bookmarkId=)|L12|./삼성/2020_하반기_오전_2번_원자_충돌.py|01:20:00.00|`Simulation`|✅|
   |**____**|[나무박멸](https://www.codetree.ai/ko/frequent-problems/problems/tree-kill-all/description)|L12|./삼성/2022_상반기_오후_2번_나무박별.py|02:30:00.00|`Simulation, dx dy technique`|✅|
   |**____**|[자율주행 전기차](https://www.codetree.ai/ko/frequent-problems/problems/autonomous-electric-car/description)|L14|./삼성/2020_상반기_오후_2번_자율주행_전기차.py|02:50:00.00|`Simulation, BFS`|✅|
-  |**____**|[생명과학부 랩 인턴](https://www.codetree.ai/ko/frequent-problems/problems/biology-lab-intern/description?introductionSetId=&bookmarkId=)|L13|./삼성/2019_상반기_오전_2번_생명과학부_랩_인턴.py|00:55:00.00|`Simulation, BFS`|✅|
+  |**____**|[생명과학부 랩 인턴](https://www.codetree.ai/ko/frequent-problems/problems/biology-lab-intern/description?introductionSetId=&bookmarkId=)|L13|./삼성/2019_상반기_오전_2번_생명과학부_랩_인턴.py|00:55:00.00|`Simulation`|✅|
 
 </details>
 
