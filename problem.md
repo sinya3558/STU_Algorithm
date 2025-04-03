@@ -45,6 +45,6 @@
 |:----:|:----:|:---:|:---:|:---:|:---:|:---:|
 |hoooddy|[]()|-|||||
 |PARKYUNSU|[]()||-||||
-|MyoungJinSon|[]()|||-|||
+|MyoungJinSon|[로봇 청소기](https://www.acmicpc.net/problem/14503)|||-|||
 |cjy8922|[미지의 공간 탈출](https://www.codetree.ai/ko/frequent-problems/problems/escape-unknown-space/description)||||-||
 |po2955|[색깔 폭탄](https://www.codetree.ai/ko/frequent-problems/problems/colored-bomb/description)|||||-|
