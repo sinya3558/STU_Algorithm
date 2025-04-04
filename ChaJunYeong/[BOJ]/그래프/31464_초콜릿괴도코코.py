@@ -14,7 +14,6 @@ arr = [list(input()) for _ in range(N)]
 dy = [-1, 0, 1, 0]
 dx = [0, 1, 0, -1]
 
-
 # 2단계 조건을 만족하는지 확인.
 from collections import deque
 def check_condition(y, x):
