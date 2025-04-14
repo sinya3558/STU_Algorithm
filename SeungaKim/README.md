@@ -10,7 +10,7 @@
   
   |코드 번호|이름|난이도|풀이 유형|풀이 코드|풀이 시간|상태|
   |:------:|:------|:------:|:------|:------|:------|:------:|
-  |**_1672_**|	[2D array](https://leetcode.com/problems/richest-customer-wealth/)|	Easy |	`Array`|	[1672_Richest_Customer_Wealth.py](./[LTC]/Array/1672_Richest_Customer_Wealth.py)|	00:16:38.00|	✅|
+  |**_1672_**|	[Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)|	Easy |	`Array`|	[1672_Richest_Customer_Wealth.py](./[LTC]/Array/1672_Richest_Customer_Wealth.py)|	00:16:38.00|	✅|
 
 </details>
 
