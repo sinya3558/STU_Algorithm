@@ -30,3 +30,15 @@
 # user_input3 = int(input("Type n : "))
 # sum_n3 = sum(range(1, (user_input3+1)))
 # print("Total sum(third one) is : ", sum_n3)
+
+'''
+# 8393
+'''
+user_input = input()
+random_n = int(user_input)
+sum_n = 0
+
+for i in range(1, random_n + 1):
+    sum_n += i
+
+print(sum_n)
