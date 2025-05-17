@@ -52,8 +52,9 @@
   |**_1436_**|  [영화감독 숌](https://www.acmicpc.net/problem/1436)|실버 5|	`브루트 포스`|	[01_영화감독숌.py](./[STU]/davinci_algorithm/basic/05_brute_force/01_영화감독숌.py)|	00:28:00.00| ✔️| |
   |**_2798_**|  [블랙잭](https://www.acmicpc.net/problem/2798)|브론즈 2|	`브루트 포스`|	[02_블랙잭.py](./[STU]/davinci_algorithm/basic/05_brute_force/02_블랙잭.py)|	00:21:00.00|✅ | |
   |**_17614_**|  [369](https://www.acmicpc.net/problem/17614)|브론즈 3|	`브루트 포스`|	[03_369.py](./[STU]/davinci_algorithm/basic/05_brute_force/03_369.py)|	00:39:00.00|✅ | |
-  |**_28215_**|  [대피소](https://www.acmicpc.net/problem/28215)|실버 4|	`브루트 포스`|	[04_대피소.py](./[STU]/davinci_algorithm/basic/05_brute_force/04_대피소.py)|	00:00:00.00| | |
+  |**_28215_**|  [대피소](https://www.acmicpc.net/problem/28215)|실버 4|	`브루트 포스`|	[04_대피소.py](./[STU]/davinci_algorithm/basic/05_brute_force/04_대피소.py)|	02:11:00.00|✔️|🔥|float('inf') 그리고 multi for loop 연습|
   |**_2531_**|  [회전초밥](https://www.acmicpc.net/problem/2531)|실버 1|	`브루트 포스`|	[05_회전초밥.py](./[STU]/davinci_algorithm/basic/05_brute_force/05_회전초밥.py)|	02:02:00.00| ✔️|🔥|원형벨트 처리|
+  |**_17608_**|  [막대기](https://www.acmicpc.net/problem/17608)|	브론즈 2|	`구현`|	[08_벌집.py](./[STU]/davinci_algorithm/basic/07_implement/01_막대기.py)|	00:00:00.00| | |
 
 </details>
 
