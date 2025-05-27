@@ -1,4 +1,5 @@
 - ✅ : 풀이 완료
+- ⏳ : 풀이 중
 - ✔️ : 코드 참고
 - 🔥 : 복습 필요
 
@@ -15,15 +16,18 @@
 
 </details>
 
-### [BOJ] 백준
+### [BOJ] 백준 (공통 풀이 문제)
 
 <details>
     <summary>문제 풀이 모음집</summary>
   </br>
     
-  |코드 번호|이름|난이도|풀이 유형|풀이 코드|풀이 시간|상태|
-  |:------:|:------|:------:|:------|:------|:------|:------:|
-  
+  |코드 번호|이름|난이도|풀이 유형|풀이 코드|풀이 시간|상태|복습 필요 유무|복습할 내용|
+  |:------:|:------|:------:|:------|:------|:------|:------:|:------:|:------:|
+  |**_20061_**|  [모노미노도미노2](https://www.acmicpc.net/problem/20061)|	골드 2|	`구현`|	[01_모노미노도미노2.py](./[BOJ]/week01/01_모노미노도미노2.py)|	00:00:00.00|⏳| |
+  |**_13549_**|  [숨바꼭질3](https://www.acmicpc.net/problem/13549)|골드 5|	`그래프`|	[02_숨바꼭질3.py](./[BOJ]/week01/02_숨바꼭질3.py)|	00:00:00.00| | |
+  |**_25401_**|  [카드바꾸기](https://www.acmicpc.net/problem/25401)|골드 5|	`브루트포스`|	[03_카드바꾸기.py](./[BOJ]/week01/03_카드바꾸기.py)|	04:12:00.00|✔️| 🔥|logic|
+
 </details>
 
 ### [STU] 개인 공부 자료
@@ -54,7 +58,8 @@
   |**_17614_**|  [369](https://www.acmicpc.net/problem/17614)|브론즈 3|	`브루트 포스`|	[03_369.py](./[STU]/davinci_algorithm/basic/05_brute_force/03_369.py)|	00:39:00.00|✅ | |
   |**_28215_**|  [대피소](https://www.acmicpc.net/problem/28215)|실버 4|	`브루트 포스`|	[04_대피소.py](./[STU]/davinci_algorithm/basic/05_brute_force/04_대피소.py)|	02:11:00.00|✔️|🔥|float('inf') 그리고 multi for loop 연습|
   |**_2531_**|  [회전초밥](https://www.acmicpc.net/problem/2531)|실버 1|	`브루트 포스`|	[05_회전초밥.py](./[STU]/davinci_algorithm/basic/05_brute_force/05_회전초밥.py)|	02:02:00.00| ✔️|🔥|원형벨트 처리|
-  |**_17608_**|  [막대기](https://www.acmicpc.net/problem/17608)|	브론즈 2|	`구현`|	[08_벌집.py](./[STU]/davinci_algorithm/basic/07_implement/01_막대기.py)|	00:00:00.00| | |
+  |**_17608_**|  [막대기](https://www.acmicpc.net/problem/17608)|	브론즈 2|	`구현`|	[01_막대기.py](./[STU]/davinci_algorithm/basic/07_implement/01_막대기.py)|	00:00:00.00| | |
+  |**_19939_**|  [박 터트리기](https://www.acmicpc.net/problem/19939)|실버 4|	`구현`|	[02_박터트리기.py](./[STU]/davinci_algorithm/basic/07_implement/02_박터트리기.py)|	00:00:00.00|✔️|🔥|로직 구현|
 
 </details>
 
