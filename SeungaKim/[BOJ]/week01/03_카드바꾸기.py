@@ -40,7 +40,7 @@ for x_i in deck:
 min_flip_nums = N
 d = 0
 # time error 왜 나는거지
-for i in range(N):
+for i in range(N): # 기준점 카드(a_1)
     count_d = {}    # 동일한 공차의 개수 카운트를 위ㅎ나 딕셔너리 *** {-2 : 3번, 0 : 1 번, 3: 1번...etc}
     for j in range(N):  # *** for j in range(1, N) 하는 경우, j 인덱스 0 은 무시하고 넘어감. **
         if i == j :     # 동일 인덱스 i,j 는 피한다
@@ -53,18 +53,19 @@ for i in range(N):
         d = (value_diff) // (idx_diff)
 
         # count_d = {}    # 동일한 공차의 개수 카운트를 위ㅎ나 딕셔너리 
+        # defaultdict?
         if d in count_d:
             count_d[d] += 1 # update
         else:
             count_d[d] = 1  # init 
 
-# 기준점 카드 i 포함 → 길이: count + 1
+# 기준점 카드 i 포함 → 길이: count + 1 (카드 두 쌍이 하나로 ㅋ카운트)
     if count_d:
         max_count = max(count_d.values())
     else:
         max_count = 0   # empty dictionary 인 경우
-    changes = N - (max_count + 1)
-    min_flip_nums = min(min_flip_nums, changes)
+    actual_change = N - (max_count + 1)
+    min_flip_nums = min(min_flip_nums, actual_change)
 
 # 아.. 카드 정렬 필요없는거...
 print(min_flip_nums)
