@@ -1,6 +1,5 @@
 # 19939 박 터트리기
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
+
 # 5:38
 '''
 N개의 공을 K개의 가방에 나누어 담을 것,
@@ -9,9 +8,6 @@ N개의 공을 K개의 가방에 나누어 담을 것,
 '''
 # range(start, stop(***excluded itself***), step)
 
-=======
-=======
->>>>>>> Stashed changes
 # 2:34
 '''
 K 개의 팀 -> 박 터트리기
@@ -35,18 +31,14 @@ N 개의 공을 K 개의 바구니에 문제의 규칙을 만족하면서 나눠
 가장 많이 담긴 바구니와 가장 적게 담긴 바구니의 공의 개수 차이를 출력한다.
 나눠 담을 수 없는 경우에는 -1을 출력한다.
 '''
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
+
 import sys
 
 N, K = map(int, input().split())
 
 if not 2 <= N <= 100000:
     sys.exit()
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
+
 elif not 2<= K <= 1000:
     sys.exit()
 else:
@@ -82,16 +74,9 @@ else:
                     reverse_idx = K-1
             
         print(max(k_bags) - min(k_bags))
-=======
-=======
->>>>>>> Stashed changes
+
 
 elif not 2 <= K <= 1000:
     sys.exit()
 
 else:
-
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
