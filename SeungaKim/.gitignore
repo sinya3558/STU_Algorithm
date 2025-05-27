@@ -4,3 +4,4 @@ temp/
 SeungaKim/[STU]/C/
 SeungaKim/[STU]/Python/
 .vscode
+.mypy_cache
