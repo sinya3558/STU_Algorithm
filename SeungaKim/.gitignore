@@ -1,7 +1,8 @@
 *.log
 *.temp
 temp/
-SeungaKim/[STU]/C/
-SeungaKim/[STU]/Python/
 .vscode
 .mypy_cache
+SeungaKim/[STU]/C/
+SeungaKim/[STU]/Python/
+SeungaKim/[BOJ]/week03/02_인구이동.py
