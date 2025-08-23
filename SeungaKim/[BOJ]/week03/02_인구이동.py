@@ -124,3 +124,4 @@ def count_movements(n, l, r, map):
     return cnt
 
 print(count_movements(N, L, R, land_map))
+# 1h35m + 1h06m = 2h41m
