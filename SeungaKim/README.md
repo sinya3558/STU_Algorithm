@@ -19,12 +19,12 @@
   |**_13549_**|  [숨바꼭질3](https://www.acmicpc.net/problem/13549)|골드 5|	`그래프`|	[02_숨바꼭질3.py](./[BOJ]/week01/02_숨바꼭질3.py)|	00:00:00.00| | |
   |**_25401_**|  [카드바꾸기](https://www.acmicpc.net/problem/25401)|골드 5|	`브루트포스`|	[03_카드바꾸기.py](./[BOJ]/week01/03_카드바꾸기.py)|	04:12:00.00|✔️| |logic|
   |**_11501_**|  [주식](https://www.acmicpc.net/problem/11501)|실버 2|	`그리디 알고리즘`|	[04_주식.py](./[BOJ]/week01/04_주식.py)|	1:42:00.00| ✔️| 시간복잡도 고려|
-  |**_0379_**|  [입국심사](https://www.acmicpc.net/problem/3079)|골드 5|	`이분 검색(Binary search)`|	[01_입국심사.py](./[BOJ]/week02/01_입국심사.py)|0:56:00.00| ✅| |
+  |**_0379_**|  [입국심사](https://www.acmicpc.net/problem/3079)|골드 5|	`이분 검색`|	[01_입국심사.py](./[BOJ]/week02/01_입국심사.py)|0:56:00.00| ✅| |
   |**_2075_**|  [N번째 큰수](https://www.acmicpc.net/problem/2075)|실버 3|	`Priority queue`, 	`정렬` |	[02_N번째큰수.py](./[BOJ]/week02/02_N번째큰수.py)|0:41:00.00|✅| |
   |**_12919_**|  [A와 B2](https://www.acmicpc.net/problem/12919)|골드 5|	`Brute force`, 	`재귀(Recursive)` |	[03_A와B2.py](./[BOJ]/week02/03_A와B2.py)|1:29:00.00| ✔️| |
   |**_1644_**|  [소수의 연속합](https://www.acmicpc.net/problem/1644)|골드 3|	`에라토스테네스의 체`, 	`슬라이딩 윈도우` |	[01_소수의연속합.py](./[BOJ]/week03/01_소수의연속합.py)|1:58:00.00| ✔️| sliding window 조건|
   |**_16234_**|  [인구이동](https://www.acmicpc.net/problem/16234)|골드 4|	`DFS`, `BFS`, `그래프 탐색` |	[02_인구이동.py](./[BOJ]/week03/02_인구이동.py)|3:14:00.00|✔️| 인접노드 -> BFS/DFS|
-  |**_16234_**|  [용액](https://www.acmicpc.net/problem/2467)|골드 5|	`이분탐색`, `투포인터` |	[01_용액.py](./[BOJ]/week04/01_용액.py)| | |
+  |**_2467_**|  [용액](https://www.acmicpc.net/problem/2467)|골드 5|	`이분탐색`, `투포인터` |	[01_용액.py](./[BOJ]/week04/01_용액.py)|1:28:00:00|✅|투포인터 |
   |**_1461_**| [도서관](https://www.acmicpc.net/problem/1461)|골드 4|	`그리디알고리즘`, `정렬` |	[02_도서관.py](./[BOJ]/week04/02_도서관.py)|1:42:00:00|✔️|음수, 양수 왜 놔눠야하는지|
 
 </details>
